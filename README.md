@@ -6,10 +6,10 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
 
 ## Curso - Inteligência Artificial
 
-### References
+### Referências
 
-- :books: Jaon Brownlee. Machine Learning Mastery With Python. [[Link]](https://machinelearningmastery.com/machine-learning-with-python/)
-- :books: Jaon Brownlee. Data Preparation for Machine Learning. [[Link]](https://machinelearningmastery.com/data-preparation-for-machine-learning/)
+- :books: Jason Brownlee. Machine Learning Mastery With Python. [[Link]](https://machinelearningmastery.com/machine-learning-with-python/)
+- :books: Jason Brownlee. Data Preparation for Machine Learning. [[Link]](https://machinelearningmastery.com/data-preparation-for-machine-learning/)
 - :books: Aurélien Géron. Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow. [[Link]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - :books: Noah Gift, Alfredo Deza. Practical MLOps: Operationalizing Machine Learning Models [[Link]](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 
