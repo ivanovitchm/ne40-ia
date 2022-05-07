@@ -1,0 +1,501 @@
+company,rank,rank_change,revenue,revenue_change,profit,profit_change,assets,employees,industry,sector,country,city,state,newcomer,ceo_founder,ceo_woman,profitable,years_on_global_500_list,previous_rank,prev_rank,CEO,Website,Ticker,Market_Cap
+Walmart,1,0.0,559151.0,6.7,13510.0,-9.2,252496,2300000,General Merchandisers,Retailing,U.S.,Bentonville,Arkansas,no,,no,yes,27,1.0,,C. Douglas McMillon,https://www.stock.walmart.com,WMT,388870
+State Grid,2,1.0,386617.7,0.7,5580.4,-30,666088.5,896360,Utilities,Energy,China,Beijing,,no,,no,yes,21,3.0,,Xin Baoan,https://www.sgcc.com.cn,,
+Amazon,3,6.0,386064.0,37.6,21331.0,84.1,321195,1298000,Internet Services and Retailing,Retailing,U.S.,Seattle,Washington,no,,no,yes,13,9.0,,Andrew R. Jassy,https://www.amazon.com,AMZN,1446821
+China National Petroleum,4,0.0,283957.6,-25.1,4575.2,3,626616.7,1242245,Petroleum Refining,Energy,China,Beijing,,no,,no,yes,21,4.0,,Li FanRong,https://www.cnpc.com.cn,,
+Sinopec Group,5,-3.0,283727.6,-30.3,6205.2,-8.7,343289,553833,Petroleum Refining,Energy,China,Beijing,,no,,no,yes,23,2.0,,Zhang Yuzhuo,https://www.sinopec.com,,
+Apple,6,6.0,274515.0,5.5,57411.0,3.9,323888,147000,"Computers, Office Equipment",Technology,U.S.,Cupertino,California,no,,no,yes,19,12.0,,Timothy D. Cook,https://www.apple.com,AAPL,2652865
+CVS Health,7,6.0,268706.0,4.6,7179.0,8.2,230715,256500,Health Care: Pharmacy and Other Services,Health Care,U.S.,Woonsocket,Rhode Island,no,,yes,yes,26,13.0,,Karen S. Lynch,https://www.cvshealth.com,CVS,134065
+UnitedHealth Group,8,7.0,257141.0,6.2,15403.0,11.3,197289,330000,Health Care: Insurance and Managed Care,Health Care,U.S.,Minnetonka,Minnesota,no,,no,yes,25,15.0,,Andrew P. Witty,https://www.unitedhealthgroup.com,UNH,434354
+Toyota Motor,9,1.0,256721.7,-6.5,21180.1,13.1,562994,366283,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Toyota,,no,,no,yes,27,10.0,,Akio Toyoda,https://global.toyota/en,TM,327979
+Volkswagen,10,-3.0,253965.0,-10.2,10103.5,-35,608368.1,662575,Motor Vehicles & Parts,Motor Vehicles & Parts,Germany,Wolfsburg,,no,,no,yes,27,7.0,,Herbert Diess,https://www.volkswagenag.com,VWAGY,129726
+Berkshire Hathaway,11,3.0,245510.0,-3.6,42521.0,-47.8,873729,360000,Insurance: Property and Casualty (Stock),Financials,U.S.,Omaha,Nebraska,no,,no,yes,25,14.0,,Warren E. Buffett,https://www.berkshirehathaway.com,BRKA,682197
+McKesson,12,4.0,238228.0,3.1,-4539.0,-604.3,65015,67500,Wholesalers: Health Care,Health Care,U.S.,Irving,Texas,no,,no,no,27,16.0,,Brian S. Tyler,https://www.mckesson.com,MCK,37654
+China State Construction Engineering,13,5.0,234425.0,13.9,3578.4,7.4,338033.2,356864,Engineering & Construction,Engineering & Construction,China,Beijing,,no,,no,yes,10,18.0,,Zhou Naixiang,https://www.cscec.com,,
+Saudi Aramco,14,-8.0,229766.2,-30.3,49286.8,-44.1,510265.5,79800,"Mining, Crude-Oil Production",Energy,Saudi Arabia,Dhahran,,no,,no,yes,3,6.0,,Amin H. Nasser,https://www.aramco.com,,1860837
+Samsung Electronics,15,4.0,200734.4,1.5,22116.4,19.9,347991.8,267937,"Electronics, Electrical Equip.",Technology,South Korea,"Suwon, Gyeonggi-do",,no,,no,yes,27,19.0,,Hyun-Suk Kim/Ki-Nam Kim,https://www.samsung.com,????,378589
+Ping An Insurance,16,5.0,191509.4,3.9,20738.9,-4.1,1460210,362035,"Insurance: Life, Health (stock)",Financials,China,Shenzhen,,no,,yes,yes,12,21.0,,Xie Yonglin/Tan Sin Yin,https://www.pingan.com,PNGAY,167392
+AmerisourceBergen,17,6.0,189893.9,5.7,-3408.7,-498.5,44274.8,21500,Wholesalers: Health Care,Health Care,U.S.,Chesterbrook,Pennsylvania,no,,no,no,22,23.0,,Steven H. Collis,https://www.amerisourcebergen.com,ABC,27374
+BP,18,-10.0,183500.0,-35.1,-20305.0,-604.3,267654,68100,Petroleum Refining,Energy,Britain,London,,no,,no,no,27,8.0,,Bernard Looney,https://www.bp.com,BP,79126
+Shell,19,-14.0,183195.0,-48,-21680.0,-236.9,379268,87000,Petroleum Refining,Energy,Netherlands,The Hague,,no,,no,no,27,5.0,,Ben van Beurden,https://www.shell.com,SHEL,145377
+Industrial & Commercial Bank of China,20,4.0,182794.4,3.2,45783.4,1.3,5110353.7,439787,Banks: Commercial and Savings,Financials,China,Beijing,,no,,no,yes,23,24.0,,Liao Lin,https://www.icbc-ltd.com,IDCBY,245730
+Alphabet,21,8.0,182527.0,12.8,40269.0,17.3,319616,135301,Internet Services and Retailing,Technology,U.S.,Mountain View,California,no,,no,yes,13,29.0,,Sundar Pichai,https://www.abc.xyz,GOOGL,1728686
+Hon Hai Precision Industry,22,4.0,181945.4,5.3,3456.7,-7.3,130845.6,878429,"Electronics, Electrical Equip.",Technology,Taiwan,New Taipei City,,no,,no,yes,17,26.0,,Young-Way Liu,https://www.foxconn.com,HNHPF,54670
+Exxon Mobil,23,-12.0,181502.0,-31.5,-22440.0,-256.5,332750,72000,Petroleum Refining,Energy,U.S.,Irving,Texas,no,,no,no,27,11.0,,Darren W. Woods,https://www.exxonmobil.com,XOM,241777
+Mercedes-Benz Group,24,-4.0,175827.3,-9.1,4132.8,55.3,349684.9,288481,Motor Vehicles & Parts,Motor Vehicles & Parts,Germany,Stuttgart,,no,,no,yes,27,20.0,,Ola Kallenius,https://group.mercedes-benz.com/,DMLRY,86328
+China Construction Bank,25,5.0,172000.2,8.3,39282.5,1.7,4311456.6,373814,Banks: Commercial and Savings,Financials,China,Beijing,,no,,no,yes,22,30.0,,Tian Guoli,https://www.ccb.com,CICHY,178367
+AT&T,26,-4.0,171760.0,-5.2,-5176.0,-137.2,525761,230760,Telecommunications,Telecommunications,U.S.,Dallas,Texas,no,,no,no,27,22.0,,John T. Stankey,https://www.att.com,T,190022
+Costco Wholesale,27,6.0,166761.0,9.2,4002.0,9.4,55556,214500,General Merchandisers,Retailing,U.S.,Issaquah,Washington,no,,no,yes,27,33.0,,W. Craig Jelinek,https://www.costco.com,COST,213562
+Cigna,28,4.0,160401.0,4.5,8458.0,65.7,155451,72963,Health Care: Pharmacy and Other Services,Health Care,U.S.,Bloomfield,Connecticut,no,,no,yes,26,32.0,,David M. Cordani,https://www.cigna.com,CI,78300
+Agricultural Bank of China,29,6.0,153884.6,4.5,31293.4,1.9,4169355.9,462592,Banks: Commercial and Savings,Financials,China,Beijing,,no,,no,yes,22,35.0,,Zhang Qingsong,https://www.abchina.com,ACGBY,158335
+Cardinal Health,30,7.0,152922.0,5.1,-3696.0,-371.2,40766,48000,Wholesalers: Health Care,Health Care,U.S.,Dublin,Ohio,no,,no,no,24,37.0,,Michael C. Kaufmann,https://www.cardinalhealth.com,CAH,14247
+Trafigura Group,31,-4.0,146994.3,-14.3,1699.2,94.9,56985.6,8619,Trading,Wholesalers,Singapore,Singapore,,no,,no,yes,7,27.0,,Jeremy Weir,https://www.trafigura.com,,
+China Life Insurance,32,13.0,144589.1,10.2,4648.1,-0.3,776308.8,183417,"Insurance: Life, Health (stock)",Financials,China,Beijing,,no,,no,yes,19,45.0,,Wang Bin,https://www.chinalife.com.cn,,
+Microsoft,33,14.0,143015.0,13.6,44281.0,12.8,301311,163000,Computer Software,Technology,U.S.,Redmond,Washington,no,,no,yes,24,47.0,,Satya Nadella,https://www.microsoft.com,MSFT,2222587
+Glencore,34,-17.0,142338.0,-33.8,-1903.0,,118000,87822,"Mining, Crude-Oil Production",Energy,Switzerland,Baar,,no,,no,no,11,17.0,,Gary Nagle,https://www.glencore.com,GLNCY,57164
+China Railway Engineering Group,35,15.0,141383.6,14.6,1638.8,6.7,185315.7,308483,Engineering & Construction,Engineering & Construction,China,Beijing,,no,,no,yes,7,50.0,,Chen Wen Jian,https://www.crecg.com,,
+Walgreens Boots Alliance,36,5.0,139537.0,2,456.0,-88.5,87174,277000,Food & Drug Stores,Food & Drug Stores,U.S.,Deerfield,Illinois,no,,yes,yes,27,41.0,,Roz Brewer,https://www.walgreensbootsalliance.com,WBA,45322
+EXOR Group,37,-9.0,136185.9,-16.3,-34.2,-101,211650.1,263284,Diversified Financials,Financials,Netherlands,Amsterdam,,no,,no,no,11,28.0,,John Elkann,https://www.exor.com,EXXRF,18784
+Allianz,38,8.0,136173.3,4.5,7756.2,-12.4,1297242.7,150269,"Insurance: Life, Health (stock)",Financials,Germany,Munich,,no,,no,yes,27,46.0,,Oliver Bäte,https://www.allianz.com,ALIZY,101240
+Bank of China,39,4.0,134045.6,-0.8,27952.1,3,3739871.1,309084,Banks: Commercial and Savings,Financials,China,Beijing,,no,,no,yes,27,43.0,,Liu Liange,https://www.boc.cn,BACHY,128616
+Kroger,40,11.0,132498.0,8.4,2585.0,55.8,48662,465000,Food & Drug Stores,Food & Drug Stores,U.S.,Cincinnati,Ohio,no,,no,yes,27,51.0,,W. Rodney McMullen,https://www.thekrogerco.com,KR,34498
+Home Depot,41,18.0,132110.0,19.9,12866.0,14.4,70581,504800,Specialty Retailers,Retailing,U.S.,Atlanta,Georgia,no,,no,yes,27,59.0,,Edward P. Decker,https://www.homedepot.com,HD,364544
+China Railway Construction,42,12.0,131992.3,9.7,1485.5,9.3,190916.1,364632,Engineering & Construction,Engineering & Construction,China,Beijing,,no,,no,yes,10,54.0,,Wang Jianping,https://www.crcc.cn,,
+JPMorgan Chase,43,-5.0,129503.0,-9.1,29131.0,-20,3386071,255351,Banks: Commercial and Savings,Financials,U.S.,New York,New York City,no,,no,yes,27,38.0,,James Dimon,https://www.jpmorganchase.com,JPM,428750
+Huawei Investment & Holding,44,5.0,129183.5,3.9,9361.6,3.3,134383.8,197000,Network and Other Communications Equipment,Technology,China,Shenzhen,,no,,no,yes,12,49.0,,Ren Zhengfei,https://www.huawei.com,,
+Verizon Communications,45,-1.0,128292.0,-2.7,17801.0,-7.6,316481,132200,Telecommunications,Telecommunications,U.S.,New York,New York City,no,,no,yes,27,44.0,,Hans E. Vestberg,https://www.verizon.com,VZ,223153
+AXA,46,-12.0,128011.4,-14.1,3605.2,-16.5,984656,96595,"Insurance: Life, Health (stock)",Financials,France,Paris,,no,,no,yes,27,34.0,,Thomas Buberl,https://www.axa.com,AXAHY,61935
+Ford Motor,47,-16.0,127144.0,-18.4,-1279.0,-2821.3,267261,186000,Motor Vehicles & Parts,Motor Vehicles & Parts,U.S.,Dearborn,Michigan,no,,no,no,27,31.0,,James D. Farley Jr.,https://www.ford.com,F,82522
+Honda Motor,48,-9.0,124240.6,-9.5,6201.6,47.9,198201,211374,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Tokyo,,no,,no,yes,27,39.0,,Toshihiro Mibe,https://www.honda.co.jp,HMC,54786
+General Motors,49,-9.0,122485.0,-10.7,6427.0,-4.5,235194,155000,Motor Vehicles & Parts,Motor Vehicles & Parts,U.S.,Detroit,Michigan,no,,yes,yes,27,40.0,,Mary T. Barra,https://www.gm.com,GM,77355
+Anthem,50,18.0,121867.0,16.9,4572.0,-4.9,86615,83400,Health Care: Insurance and Managed Care,Health Care,U.S.,Indianapolis,Indiana,no,,yes,yes,20,68.0,,Gail K. Boudreaux,https://www.antheminc.com,ANTM,116010
+Mitsubishi,51,-9.0,121542.7,-10.6,1627.7,-66.9,168489.8,82997,Trading,Wholesalers,Japan,Tokyo,,no,,no,yes,27,42.0,,Takehiko Kakiuchi,https://www.mitsubishicorp.com,MSBHF,40689
+TotalEnergies,52,-27.0,119704.0,-32.1,-7242.0,-164.3,266132,105476,Petroleum Refining,Energy,France,Courbevoie,,no,,no,no,27,25.0,,Patrick Pouyanné,https://www.totalenergies.com,TOT,111558
+Deutsche Telekom,53,33.0,115083.2,27.7,4737.8,9.5,324205.4,226291,Telecommunications,Telecommunications,Germany,Bonn,,no,,no,yes,27,86.0,,Timotheus Höttges,https://www.telekom.com,DTEGY,90058
+BMW,54,2.0,112794.1,-3.3,4301.4,-21.8,265146.1,120726,Motor Vehicles & Parts,Motor Vehicles & Parts,Germany,Munich,,no,,no,yes,27,56.0,,Oliver Zipse,https://www.bmwgroup.com,BMWYY,69751
+Nippon Telegraph & Telephone,55,7.0,112670.3,2.9,8642.6,9.9,207644.6,324667,Telecommunications,Telecommunications,Japan,Tokyo,,no,,no,yes,27,62.0,,Jun Sawada,https://group.ntt,NTTYY,103968
+China Mobile Communications,56,9.0,111825.5,3,12920.1,6.4,304527.8,455721,Telecommunications,Telecommunications,China,Beijing,,no,,no,yes,21,65.0,,Dong Xin,https://www.10086.cn,,
+Centene,57,70.0,111115.0,48.9,1808.0,36.9,68719,71300,Health Care: Insurance and Managed Care,Health Care,U.S.,St. Louis,Missouri,no,,no,yes,6,127.0,,Sarah London,https://www.centene.com,CNC,45011
+Japan Post Holdings,58,2.0,110561.3,0.6,3945.3,-11.3,2692026.5,243612,"Insurance: Life, Health (stock)",Financials,Japan,Tokyo,,no,,no,yes,25,60.0,,Hiroya Masuda,https://www.japanpost.jp,,31448
+JD.com,59,43.0,108087.0,29.4,7160.2,306,64718.4,314906,Internet Services and Retailing,Retailing,China,Beijing,,no,,no,yes,6,102.0,,Richard Qiangdong Liu,https://www.jd.com,JD,114523
+SAIC Motor,60,-8.0,107555.2,-11.9,2961.0,-20.1,140906.5,143261,Motor Vehicles & Parts,Motor Vehicles & Parts,China,Shanghai,,no,,no,yes,10,52.0,,Wang Xiaoqiu,https://www.saicmotor.com,,36798
+China Communications Construction,61,17.0,106867.7,12.4,1165.0,-12.6,306555,213438,Engineering & Construction,Engineering & Construction,China,Beijing,,no,,no,yes,14,78.0,,Wang Tongzhou,https://www.ccccltd.cn,,
+Fannie Mae,62,-9.0,106437.0,-11.5,11805.0,-16.6,3985749,7700,Diversified Financials,Financials,U.S.,Washington,District Of Columbia,no,,no,yes,24,53.0,,David C. Benson,https://www.fanniemae.com,FNMA,7490
+Alibaba Group Holding,63,69.0,105865.7,44.7,22224.0,3.6,257977.7,251462,Internet Services and Retailing,Retailing,China,Hangzhou,,no,,no,yes,5,132.0,,Daniel Zhang,https://www.alibabagroup.com,BABA,334066
+Comcast,64,-1.0,103564.0,-4.9,10534.0,-19.3,273869,168000,Telecommunications,Telecommunications,U.S.,Philadelphia,Pennsylvania,no,,no,yes,19,63.0,,Brian L. Roberts,https://corporate.comcast.com,CMCS.A,213652
+China Minmetals,65,27.0,102014.8,15.5,491.1,113.4,150651.9,205015,Metals,Materials,China,Beijing,,no,,no,yes,15,92.0,,Tang Fuping,https://www.minmetals.com,,
+China FAW Group,66,23.0,101075.8,13,2866.5,0.7,74933.4,121002,Motor Vehicles & Parts,Motor Vehicles & Parts,China,Changchun,,no,,no,yes,17,89.0,,Xu Liuping,https://www.faw.com.cn,,
+Hengli Group,67,40.0,100773.1,25,2372.7,14.2,40747.7,118496,Textiles,Industrials,China,Suzhou City,,no,,no,yes,5,107.0,,Chen Jianhua,https://www.hengli.com,,
+Amer International Group,68,23.0,100280.5,12.8,1851.7,2.5,31046.8,20180,Metals,Materials,China,Shenzhen,,no,,no,yes,9,91.0,,Wang Wenyin,https://www.amer.com.cn,,
+China Resources,69,10.0,99437.6,4.9,4330.2,21.2,275691.9,370955,Pharmaceuticals,Health Care,China,Hong Kong,,no,,no,yes,12,79.0,,Wang Xiangming,https://www.crc.com.hk,,
+Shandong Energy Group,70,225.0,97860.6,136.8,1161.9,322.6,104996.6,244832,"Mining, Crude-Oil Production",Energy,China,Jinan,,no,,no,yes,4,295.0,,Li Xiyong,https://www.snjt.com,,
+Itochu,71,1.0,97753.1,-3.2,3786.8,-17.9,101070.8,148887,Trading,Wholesalers,Japan,Osaka,,no,,no,yes,27,72.0,,Masahiro Okafuji,https://www.itochu.co.jp,ITOCY,46335
+China Baowu Steel Group,72,39.0,97643.1,22.2,3628.7,25.1,155413.2,234570,Metals,Materials,China,Shanghai,,no,,no,yes,18,111.0,,Chen Derong,https://www.baowugroup.com,,
+Assicurazioni Generali,73,-7.0,97128.9,-8.3,1987.2,-33.5,666616.1,72644,"Insurance: Life, Health (stock)",Financials,Italy,Trieste,,no,,no,yes,27,66.0,,Philippe R. Donnet,https://www.generali.com,ARZGY,31226
+China Post Group,74,16.0,96304.1,7.8,4698.4,5.8,1811048.3,827231,"Mail, Package, and Freight Delivery",Transportation,China,Beijing,,no,,no,yes,11,90.0,,Liu Aili,https://www.chinapost.com.cn,,
+Chevron,75,-39.0,94692.0,-35.4,-5543.0,-289.6,239790,47736,Petroleum Refining,Energy,U.S.,San Ramon,California,no,,no,no,27,36.0,,Michael K. Wirth,https://www.chevron.com,CVX,190995
+Dell Technologies,76,5.0,94224.0,2.2,3250.0,-29.6,123415,158000,"Computers, Office Equipment",Technology,U.S.,Round Rock,Texas,no,,no,yes,21,81.0,,Michael S. Dell,https://www.delltechnologies.com,DELL,42449
+Bank of America,77,-19.0,93753.0,-17.5,17894.0,-34.8,2819627,212505,Banks: Commercial and Savings,Financials,U.S.,Charlotte,North Carolina,no,,no,yes,27,58.0,,Brian T. Moynihan,https://www.bankofamerica.com,BAC,352677
+Target,78,39.0,93561.0,19.8,4368.0,33.1,51248,409000,General Merchandisers,Retailing,U.S.,Minneapolis,Minnesota,no,,no,yes,27,117.0,,Brian C. Cornell,https://corporate.target.com,TGT,101090
+Nestlé,79,3.0,89852.9,-3.6,13031.1,2.7,140366.7,273000,Food Consumer Products,"Food, Beverages & Tobacco",Switzerland,Vevey,,no,,no,yes,27,82.0,,Ulf Mark Schneider,https://www.nestle.com,NSRGY,373769
+Lowe&#8217;s,80,57.0,89597.0,24.2,5835.0,36.3,46735,280000,Specialty Retailers,Retailing,U.S.,Mooresville,North Carolina,no,,no,yes,24,137.0,,Marvin R. Ellison,https://www.lowes.com,LOW,151607
+Marathon Petroleum,81,-33.0,88952.0,-28.7,-9826.0,-472.6,85158,57900,Petroleum Refining,Energy,U.S.,Findlay,Ohio,no,,no,no,10,48.0,,Michael J. Hennigan,https://www.marathonpetroleum.com,MPC,34845
+Citigroup,82,-12.0,88839.0,-14.1,11047.0,-43.1,2260090,210153,Banks: Commercial and Savings,Financials,U.S.,New York,New York City,no,,yes,yes,27,70.0,,Jane Fraser,https://www.citigroup.com,C,125545
+Hyundai Motor,83,1.0,88155.7,-2.8,1207.5,-52.8,192604.9,122814,Motor Vehicles & Parts,Motor Vehicles & Parts,South Korea,Seoul,,no,,no,yes,26,84.0,,Euisun Chung/Jae-Hoon Chang,https://worldwide.hyundai.com,HYMTF,42434
+Gazprom,84,-29.0,87870.4,-25.5,1872.0,-89.9,315933.4,467000,Energy,Energy,Russia,Moscow,,no,,no,yes,25,55.0,,Alexey B. Miller,https://www.gazprom.com,OGZPY,90755
+Dongfeng Motor,85,15.0,86856.3,3.3,1115.5,-16,85096,145756,Motor Vehicles & Parts,Motor Vehicles & Parts,China,Wuhan,,no,,no,yes,12,100.0,,Yang Qing,https://www.dfmc.com.cn,,
+Meta Platforms,86,58.0,85965.0,21.6,29146.0,57.7,159316,58604,Internet Services and Retailing,Technology,U.S.,Menlo Park,California,no,,no,yes,5,144.0,,Mark Zuckerberg,https://investor.fb.com,FB,912852
+Royal Ahold Delhaize,87,41.0,85157.9,14.8,1591.8,-19.5,49798.9,249000,Food & Drug Stores,Food & Drug Stores,Netherlands,Zaandam,,no,,no,yes,27,128.0,,Frans Muller,https://www.aholddelhaize.com,ADRNY,34527
+Sony,88,34.0,84893.1,11.7,11053.6,106.4,238289.7,109700,"Electronics, Electrical Equip.",Technology,Japan,Tokyo,,no,,no,yes,27,122.0,,Kenichiro Yoshida,https://www.sony.com,SONY,143764
+UPS,89,40.0,84628.0,14.2,1343.0,-69.8,62408,408255,"Mail, Package, and Freight Delivery",Transportation,U.S.,Atlanta,Georgia,no,,yes,yes,27,129.0,,Carol B. Tomé,https://www.ups.com,UPS,175523
+People&#8217;s Insurance Co. of China,90,22.0,84290.4,5.6,2903.8,-9.4,192500.2,193494,Insurance: Property and Casualty (Stock),Financials,China,Beijing,,no,,no,yes,12,112.0,,Luo Xi,https://www.picc.com.cn,PINXY,34824
+China Southern Power Grid,91,14.0,83699.0,2.1,998.6,-45.5,155171.8,288974,Utilities,Energy,China,Guangzhou,,no,,no,yes,17,105.0,,Meng Zhenping,https://www.csg.cn,,
+China National Offshore Oil,92,-28.0,83296.3,-23.4,4802.4,-31,193366.2,80058,"Mining, Crude-Oil Production",Energy,China,Beijing,,no,,no,yes,15,64.0,,Wang DongJin,https://www.cnooc.com.cn,,
+Crédit Agricole,93,-26.0,82958.8,-21,3067.4,-43.4,2399947.7,73817,Banks: Commercial and Savings,Financials,France,Montrouge,,no,,no,yes,27,67.0,,Philippe Brassac,https://www.credit-agricole.com,CRARY,41994
+Johnson & Johnson,94,10.0,82584.0,0.6,14714.0,-2.7,174894,134500,Pharmaceuticals,Health Care,U.S.,New Brunswick,New Jersey,no,,no,yes,21,104.0,,Joaquin Duato,https://www.jnj.com,JNJ,434036
+Hitachi,95,11.0,82344.6,2.1,4731.8,487.3,107168.7,350864,"Electronics, Electrical Equip.",Technology,Japan,Tokyo,,no,,no,yes,27,106.0,,Toshiaki Higashihara,https://www.hitachi.com,HTHIY,55324
+Carrefour,96,2.0,82211.3,-4.3,730.4,-42.2,58238.2,322164,Food & Drug Stores,Food & Drug Stores,France,Massy,,no,,no,yes,27,98.0,,Alexandre Bompard,https://www.carrefour.com,CRRFY,15162
+BNP Paribas,97,2.0,81632.4,-4,8052.5,-12,3045415.3,193319,Banks: Commercial and Savings,Financials,France,Paris,,no,,no,yes,27,99.0,,Jean-Laurent Bonnafé,https://group.bnpparibas,BNPQY,73478
+Bosch,98,-3.0,81463.8,-6.4,360.1,-79.8,111817.4,395034,Motor Vehicles & Parts,Motor Vehicles & Parts,Germany,Gerlingen-Schillerhöhe,,no,,no,yes,27,95.0,,Stefan Hartung,https://www.bosch.com,,-
+Tesco,99,4.0,81248.0,-1.8,7948.4,541,63983.9,242911,Food & Drug Stores,Food & Drug Stores,Britain,Welwyn Garden City,,no,,no,yes,27,103.0,,Ken Murphy,https://www.tescoplc.com,TSCDY,24672
+AEON,100,15.0,81227.8,2.9,-670.5,-372.4,107764.9,282073,Food & Drug Stores,Food & Drug Stores,Japan,Chiba,,no,,no,no,27,115.0,,Akio Yoshida,https://www.aeon.info,AONNY,23334
+China Energy Investment,101,7.0,80716.2,0.3,4102.1,-3.8,274035,326641,"Mining, Crude-Oil Production",Energy,China,Beijing,,no,,no,yes,12,108.0,,Wang Xiangxi,https://www.ceic.com,,
+HSBC Holdings,102,-29.0,80429.0,-18.5,5229.0,-29.2,2984164,226059,Banks: Commercial and Savings,Financials,Britain,London,,no,,no,yes,27,73.0,,Noel P. Quinn,https://www.hsbc.com,HSBC,139009
+Wells Fargo,103,-34.0,80303.0,-22.7,3301.0,-83.1,1955163,268531,Banks: Commercial and Savings,Financials,U.S.,San Francisco,California,no,,no,yes,24,69.0,,Charles W. Scharf,https://www.wellsfargo.com,WFC,184983
+General Electric,104,-27.0,79619.0,-16.4,5704.0,,253452,184000,Industrial Machinery,Industrials,U.S.,Boston,Massachusetts,no,,no,yes,27,77.0,,H. Lawrence Culp Jr.,https://www.ge.com,GE,111489
+Electricité de France,105,5.0,78903.5,-1.7,740.6,-87.2,374349.4,161203,Utilities,Energy,France,Paris,,no,,no,yes,27,110.0,,Jean-Bernard Lévy,https://www.edf.fr,ECIFY,39857
+State Farm Insurance,106,8.0,78898.0,-0.6,3738.9,-33.1,299104.5,57582,Insurance: Property and Casualty (Mutual),Financials,U.S.,Bloomington,Illinois,no,,no,yes,27,114.0,,Michael L. Tipsord,https://www.statefarm.com,,
+PowerChina,107,50.0,78486.5,16.5,688.6,-10.9,161989.2,180883,Engineering & Construction,Engineering & Construction,China,Beijing,,no,,no,yes,10,157.0,,Yan Zhiyong,https://www.powerchina.cn,,
+Intel,108,30.0,77867.0,8.2,20899.0,-0.7,153091,110600,Semiconductors and Other Electronic Components,Technology,U.S.,Santa Clara,California,no,,no,yes,27,138.0,,Patrick P. Gelsinger,https://www.intel.com,INTC,227030
+Sinopharm,109,36.0,77278.2,9.3,1258.7,38,70865.3,176686,Pharmaceuticals,Health Care,China,Beijing,,no,,no,yes,9,145.0,,Liu Jingzhen,https://www.sinopharm.com,,
+Humana,110,56.0,77155.0,18.9,3367.0,24.4,34969,48700,Health Care: Insurance and Managed Care,Health Care,U.S.,Louisville,Kentucky,no,,no,yes,23,166.0,,Bruce D. Broussard,https://www.humana.com,HUM,48232
+Nippon Life Insurance,111,19.0,76984.3,4,3127.2,77,773869.4,95352,"Insurance: Life, Health (Mutual)",Financials,Japan,Osaka,,no,,no,yes,27,130.0,,Hiroshi Shimizu,https://www.nissay.co.jp,,
+COFCO,112,24.0,76855.6,6.5,1377.6,232.6,102649.4,109839,Trading,Wholesalers,China,Beijing,,no,,no,yes,27,136.0,,Luan Richeng,https://www.cofco.com,,
+Deutsche Post DHL Group,113,29.0,76122.1,7.4,3394.4,15.6,67684.7,526896,"Mail, Package, and Freight Delivery",Transportation,Germany,Bonn,,no,,no,yes,27,142.0,,Frank Appel,https://www.dpdhl.com,DPSGY,73146
+Mitsui,114,58.0,75562.4,19.3,3164.5,-12.1,113163.2,44509,Trading,Wholesalers,Japan,Tokyo,,no,,no,yes,27,172.0,,Kenichi Hori,https://www.mitsui.com,MITSY,37800
+CITIC Group,115,11.0,74689.2,-0.6,3842.5,5.4,1265205.7,148283,Diversified Financials,Financials,China,Beijing,,no,,no,yes,13,126.0,,Zhu Hexin,https://www.group.citic,,
+Nissan Motor,116,-33.0,74169.5,-18.4,-4232.7,,148752.9,139507,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Yokohama,,no,,no,no,27,83.0,,Makoto Uchida,https://www.nissan-global.com,NSANY,21259
+Munich Re Group,117,18.0,74074.5,2.1,1379.9,-54.7,364626.3,39642,Insurance: Property and Casualty (Stock),Financials,Germany,Munich,,no,,no,yes,27,135.0,,Joachim Wenning,https://www.munichre.com,MURGY,37459
+Enel,118,-31.0,74047.1,-17.6,2974.0,22.2,200033.8,66717,Utilities,Energy,Italy,Rome,,no,,no,yes,27,87.0,,Francesco Starace,https://www.enel.com,ENLAY,95158
+Dai-ichi Life Holdings,119,46.0,73841.5,12.8,3431.6,1050.3,574988.3,64823,"Insurance: Life, Health (stock)",Financials,Japan,Tokyo,,no,,no,yes,27,165.0,,Seiji Inagaki,https://www.dai-ichi-life-hd.com,DCNSF,19650
+Banco Santander,120,-27.0,73630.1,-16.6,-9994.1,-237.1,1845796.4,184720,Banks: Commercial and Savings,Financials,Spain,Madrid,,no,,no,no,27,93.0,,José Antonio Álvarez,https://www.santander.com,SAN,62795
+IBM,121,-3.0,73620.0,-4.6,5590.0,-40.7,155971,364800,Information Technology Services,Technology,U.S.,Armonk,New York City,no,,no,yes,27,118.0,,Arvind Krishna,https://www.ibm.com,IBM,116001
+China Evergrande Group,122,30.0,73514.0,6.3,1170.4,-53.2,352668,123276,Real estate,Financials,China,Shenzhen,,no,,no,yes,6,152.0,,Hui Ka Yan,https://www.evergrande.com,EGRNF,13315
+U.S. Postal Service,123,18.0,73133.0,2.8,-9176.0,,35904,569987,"Mail, Package, and Freight Delivery",Transportation,U.S.,Washington,District Of Columbia,no,,no,no,27,141.0,,Louis DeJoy,https://www.usps.com,,
+Beijing Automotive Group,124,10.0,72147.3,-0.6,339.8,-54.5,81894.4,110000,Motor Vehicles & Parts,Motor Vehicles & Parts,China,Beijing,,no,,no,yes,9,134.0,,Jiang Deyi,https://www.baicgroup.com.cn,,
+Lukoil,125,-68.0,71856.2,-37.3,209.9,-97.9,81060.5,100769,Petroleum Refining,Energy,Russia,Moscow,,no,,no,yes,22,57.0,,Vagit Alekperov,https://www.lukoil.com,LUKOY,60454
+China Telecommunications,126,32.0,71400.9,6,1886.1,4.6,139128.5,400945,Telecommunications,Telecommunications,China,Beijing,,no,,no,yes,22,158.0,,Ke Ruiwen,https://www.chinatelecom.com.cn,,
+China North Industries Group,127,27.0,71017.5,3.4,1510.9,17.7,67419.7,212960,Aerospace & Defense,Aerospace & Defense,China,Beijing,,no,,no,yes,12,154.0,,Jiao Kaihe,https://www.norincogroup.com.cn,,
+Procter & Gamble,128,28.0,70950.0,4.8,13027.0,234.3,120700,99000,Household and Personal Products,Household Products,U.S.,Cincinnati,Ohio,no,,no,yes,27,156.0,,Jon R. Moeller,https://www.pginvestor.com,PG,389811
+SK,129,-32.0,70839.2,-17.8,160.5,-73.9,126632.7,114842,Petroleum Refining,Energy,South Korea,Seoul,,no,,no,yes,6,97.0,,Tae-Won Chey/Dong-Hyun Jang,https://www.sk.co.kr,,16970
+E.ON,130,125.0,70381.5,50.2,1158.8,-33.9,116732.2,78126,Energy,Energy,Germany,Essen,,no,,no,yes,27,255.0,,Leonhard Birnbaum,https://www.eon.com,EONGY,31915
+PepsiCo,131,29.0,70372.0,4.8,7120.0,-2.7,92918,291000,Food Consumer Products,"Food, Beverages & Tobacco",U.S.,Purchase,New York City,no,,no,yes,27,160.0,,Ramon L. Laguarta,https://www.pepsico.com,PEP,240886
+Tencent Holdings,132,65.0,69864.2,27.9,23166.2,71.5,204356.3,85858,Internet Services and Retailing,Technology,China,Shenzhen,,no,,no,yes,5,197.0,,Pony Ma,https://www.tencent.com,TCEHY,585996
+Albertsons,133,41.0,69690.4,11.6,850.2,82.3,26598,300000,Food & Drug Stores,Food & Drug Stores,U.S.,Boise,Idaho,no,,no,yes,17,174.0,,Vivek Sankaran,https://www.albertsonscompanies.com,ACI,9410
+BASF,134,9.0,69464.3,-1.8,-1207.8,-112.8,98261.3,110302,Chemicals,Chemicals,Germany,Ludwigshafen,,no,,no,no,27,143.0,,Martin Brudermüller,https://www.basf.com,BASFY,68279
+FedEx,135,13.0,69217.0,-0.7,1286.0,138.1,73537,499718,"Mail, Package, and Freight Delivery",Transportation,U.S.,Memphis,Tennessee,no,,no,yes,27,148.0,,Frederick Smith,https://www.fedex.com,FDX,58720
+MetLife,136,13.0,67842.0,-2.6,5407.0,-8.3,795146,46500,"Insurance: Life, Health (stock)",Financials,U.S.,New York,New York City,no,,no,yes,27,149.0,,Michel A. Khalaf,https://www.metlife.com,MET,55189
+Bank of Communications,137,25.0,67605.5,1.6,11409.3,2,1639481.4,90716,Banks: Commercial and Savings,Financials,China,Shanghai,,no,,no,yes,13,162.0,,Ren Deqi,https://www.bankcomm.com,BCMXY,47341
+Jinneng Holding Group,138,325.0,67534.8,145.1,8.2,,157497.6,472860,"Mining, Crude-Oil Production",Energy,China,Datong,,no,,no,yes,9,463.0,,Guo Jingang,https://www.dtcoalmine.com,,
+Country Garden Holdings,139,8.0,67080.4,-4.6,5075.6,-11.3,308936.2,93899,Real estate,Financials,China,Foshan,,no,,no,yes,5,147.0,,Mo Bin,https://www.countrygarden.com.cn,CTRYY,23805
+Aviation Industry Corp. of China,140,23.0,66964.1,1.6,915.7,58.4,161220.8,407344,Aerospace & Defense,Aerospace & Defense,China,Beijing,,no,,no,yes,13,163.0,,Luo Ronghuai,https://www.avic.com,,
+Freddie Mac,141,-16.0,66228.0,-11.8,7326.0,1.6,2627415,6922,Diversified Financials,Financials,U.S.,McLean,Virginia,no,,no,yes,25,125.0,,Michael J. DeVito,https://www.freddiemac.com,FMCC,3752
+Greenland Holding Group,142,34.0,66095.8,6.7,2173.6,1.9,214151.2,86251,Real estate,Financials,China,Shanghai,,no,,no,yes,10,176.0,,Zhang Yuliang,https://www.ldjt.com.cn,,
+Phillips 66,143,-82.0,65494.0,-40.2,-3975.0,-229.2,54721,14300,Petroleum Refining,Energy,U.S.,Houston,Texas,no,,no,no,9,61.0,,Greg C. Garland,https://www.phillips66.com,PSX,31662
+Lockheed Martin,144,38.0,65398.0,9.3,6833.0,9.7,50710,114000,Aerospace & Defense,Aerospace & Defense,U.S.,Bethesda,Maryland,no,,no,yes,27,182.0,,James D. Taiclet Jr.,https://www.lockheedmartin.com,LMT,102372
+Walt Disney,145,5.0,65388.0,-6,-2864.0,-125.9,201549,203000,Entertainment,Media,U.S.,Burbank,California,no,,no,no,27,150.0,,Robert A. Chapek,https://www.thewaltdisneycompany.com,DIS,250096
+Archer Daniels Midland,146,22.0,64355.0,-0.5,1772.0,28.5,49719,38332,Food Production,"Food, Beverages & Tobacco",U.S.,Chicago,Illinois,no,,no,yes,27,168.0,,Juan R. Luciano,https://www.adm.com,ADM,38568
+Roche Group,147,24.0,64285.0,0.2,15228.8,12.1,97485.3,101465,Pharmaceuticals,Health Care,Switzerland,Basel,,no,,no,yes,27,171.0,,Severin Schwan,https://www.roche.com,RHHBY,346050
+Xiamen C&D,148,86.0,64111.8,30.4,952.6,42.8,66968.3,28928,Trading,Wholesalers,China,Xiamen,,no,,no,yes,5,234.0,,Huang Wenzhou,https://www.chinacdc.com,,
+Pacific Construction Group,149,-74.0,64037.7,-34.3,2218.1,-35.8,44740.8,295281,Engineering & Construction,Engineering & Construction,China,Urumqi,,no,,no,yes,8,75.0,,Yan Hao,https://www.cpcg.com.cn,,
+Siemens,150,-76.0,63935.5,-34.7,4509.4,-22.7,145207.3,293000,Industrial Machinery,Industrials,Germany,Munich,,no,,no,yes,27,74.0,,Roland Busch,https://www.siemens.com,SIEGY,138026
+Sinochem,151,-42.0,63544.0,-20.9,809.1,70.9,97620.3,72237,Trading,Wholesalers,China,Beijing,,no,,no,yes,26,109.0,,Ning Gaoning,https://www.sinochem.com,,
+Engie,152,7.0,63525.4,-5.5,-1750.2,-258.9,187464.1,172703,Energy,Energy,France,Courbevoie,,no,,yes,no,26,159.0,,Catherine MacGregor,https://www.engie.com,ENGIY,32416
+Legal & General Group,153,-68.0,63324.5,-30.1,2061.0,-11.9,779962.4,10099,"Insurance: Life, Health (stock)",Financials,Britain,London,,no,,no,yes,20,85.0,,Nigel Wilson,https://www.legalandgeneralgroup.com,LGGNY,21589
+Panasonic,154,-1.0,63191.3,-8.3,1557.2,-25,61908.4,243540,"Electronics, Electrical Equip.",Technology,Japan,Osaka,,no,,no,yes,27,153.0,,Yuki Kusumi,https://www.panasonic.com/global,PCRFY,29208
+Reliance Industries,155,-59.0,62912.1,-25.3,6619.4,19.3,180648.9,236334,Petroleum Refining,Energy,India,Mumbai,,no,,no,yes,18,96.0,,Mukesh D. Ambani,https://www.ril.com,,186590
+Brookfield Asset Management,156,-1.0,62752.0,-7.5,-134.0,-104.8,343696,151000,Diversified Financials,Financials,Canada,"Toronto, Ontario",,no,,no,no,5,155.0,,J. Bruce Flatt,https://www.brookfield.com,BAM,81119
+Aviva,157,-69.0,62579.3,-30.2,3588.4,10.4,655964.5,28930,"Insurance: Life, Health (stock)",Financials,Britain,London,,no,,yes,yes,26,88.0,,Amanda Blanc,https://www.aviva.com,AVVIY,20951
+China Pacific Insurance (Group),158,35.0,61185.7,9.7,3562.9,-11.3,271418.2,110940,"Insurance: Life, Health (stock)",Financials,China,Shanghai,,no,,no,yes,11,193.0,,Fu Fan,https://www.cpic.com.cn,CHPXF,39081
+Lenovo,159,65.0,60742.3,19.8,1178.3,77.2,37990.6,71500,"Computers, Office Equipment",Technology,China,Hong Kong,,no,,no,yes,12,224.0,,Yang Yuanqing,https://www.lenovo.com,LNVGY,13286
+China Vanke,160,48.0,60740.7,14.1,6016.7,6.9,286473.7,140565,Real estate,Financials,China,Shenzhen,,no,,no,yes,6,208.0,,Zhu Jiusheng,https://www.vanke.com,CHVKF,40399
+ChemChina,161,3.0,60491.9,-8,-815.6,,131406.4,141250,Chemicals,Chemicals,China,Beijing,,no,,no,no,11,164.0,,Yang Xingqiang,https://www.chemchina.com,,
+China Merchants Bank,162,27.0,60433.2,5.6,14107.5,4.9,1281448,90867,Banks: Commercial and Savings,Financials,China,Shenzhen,,no,,no,yes,10,189.0,,Tian Huiyu,https://www.cmbchina.com,CIHKY,197863
+China Merchants Group,163,72.0,60280.7,22.7,5919.4,13.1,340740.9,246002,"Mail, Package, and Freight Delivery",Transportation,China,Hong Kong,,no,,no,yes,4,235.0,,Miao Jianmin,https://www.cmhk.com,,
+Valero Energy,164,-93.0,60115.0,-41.5,-1421.0,-158.7,51774,9964,Petroleum Refining,Energy,U.S.,San Antonio,Texas,no,,no,no,21,71.0,,Joseph W. Gorder,https://www.valero.com,VLO,25948
+Marubeni,165,8.0,59735.2,-4.9,2125.7,,62739.2,49265,Trading,Wholesalers,Japan,Tokyo,,no,,no,yes,27,173.0,,Masumi Kakinoki,https://www.marubeni.com,MARUY,14692
+ENEOS Holdings,166,-43.0,59540.0,-21.6,1075.4,,72864.5,40753,Petroleum Refining,Energy,Japan,Tokyo,,no,,no,yes,27,123.0,,Tsutomu Sugimori,https://www.hd.eneos.co.jp,JXHLY,13189
+Toyota Tsusho,167,10.0,59517.1,-3.3,1269.7,1.8,47269.5,64402,Trading,Wholesalers,Japan,Nagoya,,no,,no,yes,13,177.0,,Ichiro Kashitani,https://www.toyota-tsusho.com,TYHOF,16433
+Zurich Insurance Group,168,-29.0,59001.0,-17.8,3834.0,-7.5,439299,52930,Insurance: Property and Casualty (Stock),Financials,Switzerland,Zurich,,no,,no,yes,27,139.0,,Mario Greco,https://www.zurich.com,ZURVY,71500
+Manulife Financial,169,12.0,58840.4,-1.9,4377.9,3.7,691283.1,37000,"Insurance: Life, Health (stock)",Financials,Canada,"Toronto, Ontario",,no,,no,yes,19,181.0,,Roy Gori,https://www.manulife.com,MFC,37124
+Wuchan Zhongda Group,170,40.0,58545.7,12.7,397.9,0.6,16345.2,18549,Trading,Wholesalers,China,Hangzhou,,no,,no,yes,11,210.0,,Wang Tingge,https://www.wzgroup.cn,,5139
+Xiamen ITG Holding Group,171,113.0,58279.0,36.2,285.8,583.8,23533.5,21374,Trading,Wholesalers,China,Xiamen,,no,,no,yes,5,284.0,,Xu Xiaoxi,https://www.itgholding.com.cn,,
+Aegon,172,-48.0,58211.1,-22.7,-166.4,-112,543139.6,22322,"Insurance: Life, Health (stock)",Financials,Netherlands,The Hague,,no,,no,no,25,124.0,,Lard Friese,https://www.aegon.com,AEG,8739
+Boeing,173,-52.0,58158.0,-24,-11873.0,,152136,141000,Aerospace & Defense,Aerospace & Defense,U.S.,Chicago,Illinois,no,,no,no,27,121.0,,David L. Calhoun,https://www.boeing.com,BA,129167
+China Poly Group,174,17.0,58072.3,1.6,1949.4,-4,240687.3,106403,Real estate,Financials,China,Beijing,,no,,no,yes,7,191.0,,Zhang Zhengao,https://www.poly.com.cn,,
+Unilever,175,10.0,57797.4,-0.7,6359.3,1,82801.1,148949,Household and Personal Products,Household Products,Britain,London,,no,,no,yes,27,185.0,,Alan W. Jope,https://www.unilever.com,UL,127592
+Guangzhou Automobile Industry Group,176,30.0,57723.9,7.6,576.2,2.1,51344.8,103688,Motor Vehicles & Parts,Motor Vehicles & Parts,China,Guangzhou,,no,,no,yes,9,206.0,,Zeng Qinghong,https://www.gac.com.cn,,
+China National Building Material Group,177,10.0,57115.3,-0.9,103.0,,91973.3,202844,"Building Materials, Glass",Materials,China,Beijing,,no,,no,yes,11,187.0,,Zhou Yuxian,https://www.cnbm.com.cn,,
+Prudential Financial (U.S.),178,-11.0,57033.0,-12,-374.0,-108.9,940722,41671,"Insurance: Life, Health (stock)",Financials,U.S.,Newark,New Jersey,no,,no,no,27,167.0,,Charles F. Lowrey,https://www.prudential.com,PRU,41584
+Airbus,179,-63.0,56872.2,-27.9,-1291.0,,134734.3,131349,Aerospace & Defense,Aerospace & Defense,Netherlands,Leiden,,no,,no,no,27,116.0,,Guillaume Faury,https://www.airbus.com,EADSY,101140
+Mitsubishi UFJ Financial Group,180,-19.0,56838.4,-15.3,7329.8,50.9,3250212.6,137997,Banks: Commercial and Savings,Financials,Japan,Tokyo,,no,,no,yes,20,161.0,,Hironori Kamezawa,https://www.mufg.jp,MUFG,70305
+Petrobras,181,-61.0,56683.0,-26,1141.0,-88.8,190010,49050,Petroleum Refining,Energy,Brazil,Rio de Janeiro,,no,,no,yes,27,120.0,,Joaquim Silva e Luna,https://www.petrobras.com.br,PBR,68829
+HP,182,2.0,56639.0,-3.6,2844.0,-9.8,34681,53000,"Computers, Office Equipment",Technology,U.S.,Palo Alto,California,no,,no,yes,27,184.0,,Enrique J. Lores,https://www.hp.com,HPQ,37744
+Raytheon Technologies,183,-64.0,56587.0,-26.6,-3519.0,-163.6,162153,181000,Aerospace & Defense,Aerospace & Defense,U.S.,Waltham,Massachusetts,no,,no,no,27,119.0,,Gregory J. Hayes,https://www.rtx.com,RTX,130534
+SoftBank Group,184,-90.0,56213.6,-35.7,47052.6,,413656.9,58786,Telecommunications,Telecommunications,Japan,Tokyo,,no,,no,yes,14,94.0,,Masayoshi Son,https://group.softbank,SFTBY,83191
+Prudential PLC,185,-105.0,55973.0,-40.3,2118.0,170.5,516097,18687,"Insurance: Life, Health (stock)",Financials,Britain,London,,no,,no,yes,26,80.0,,Michael A. Wells,https://www.prudentialplc.com,PUK,51450
+Fortum,186,0.0,55850.1,816.1,2077.2,25.2,70747.9,19933,Energy,Energy,Finland,Espoo,,yes,,no,yes,5,186.0, ,Markus Rauramo,https://www.fortum.com,,24252
+Tokyo Electric Power,187,1.0,55343.1,-3.6,1706.4,265.9,109341.4,37891,Utilities,Energy,Japan,Tokyo,,no,,no,yes,27,188.0,,Tomoaki Kobayakawa,https://www.tepco.co.jp,TKECY,4735
+Seven & I Holdings,188,-10.0,54442.4,-10.7,1692.4,-15.4,65204,97154,Specialty Retailers,Retailing,Japan,Tokyo,,no,,no,yes,16,178.0,,Ryuichi Isaka,https://www.7andi.com,SVNDY,40276
+XMXYG,189,109.0,54323.9,32.1,279.0,26.8,26057.5,11671,Trading,Wholesalers,China,Xiamen,,no,,no,yes,4,298.0,,Zhang Shuili,https://www.xiangyu-group.com,,
+StoneX,190,193.0,54139.6,64.6,169.6,99.3,13474.9,2950,Diversified Financials,Financials,U.S.,New York,New York City,no,,no,yes,11,383.0,,Sean O'Connor,https://www.stonex.com,SNEX,1352
+Alimentation Couche-Tard,191,-8.0,54132.4,-8.4,2353.6,28.3,25679.5,131000,Specialty Retailers,Retailing,Canada,"Laval, Quebec",,no,,no,yes,8,183.0,,Brian P. Hannasch,https://www.corpo.couche-tard.com,ANCUF,41556
+LG Electronics,192,15.0,53625.4,0.3,1668.5,6115.2,44349.8,75000,"Electronics, Electrical Equip.",Technology,South Korea,Seoul,,no,,no,yes,21,207.0,,William Cho,https://www.lg.com,,18326
+Goldman Sachs Group,193,9.0,53498.0,-0.8,9459.0,11.7,1163028,40500,Banks: Commercial and Savings,Financials,U.S.,New York,New York City,no,,no,yes,22,202.0,,David M. Solomon,https://www.goldmansachs.com,GS,120160
+China Everbright Group,194,59.0,53429.0,13.8,2570.9,29.2,907878.6,78600,Banks: Commercial and Savings,Financials,China,Beijing,,no,,no,yes,7,253.0,,Li Xiaopeng,https://www.ebchina.com,,
+Rosneft Oil,195,-119.0,53375.8,-44.6,2033.2,-81.4,207671.3,356000,Petroleum Refining,Energy,Russia,Moscow,,no,,no,yes,16,76.0,,Igor I. Sechin,https://www.rosneft.com,OJSCY,79422
+Industrial Bank,196,26.0,53313.9,4.6,9655.9,1.3,1209808.4,59630,Banks: Commercial and Savings,Financials,China,Fuzhou,,no,,no,yes,9,222.0,,Tao Yiping,https://www.cib.com.cn,,63921
+ArcelorMittal,197,-51.0,53270.0,-24.6,-733.0,,82052,167743,Metals,Materials,Luxembourg,Luxembourg,,no,,no,no,17,146.0,,Aditya Mittal,https://corporate.arcelormittal.com,MT,30687
+Aluminum Corp. of China,198,19.0,53191.2,3,320.9,17.4,96920.2,152681,Metals,Materials,China,Beijing,,no,,no,yes,14,217.0,,Liu Xiangmin,https://www.chinalco.com.cn,,
+Sysco,199,-20.0,52893.3,-12,215.5,-87.1,22628.3,57000,Wholesalers: Food and Grocery,Wholesalers,U.S.,Houston,Texas,no,,no,yes,27,179.0,,Kevin P. Hourican,https://www.sysco.com,SYY,36813
+HBIS Group,200,18.0,52760.7,2.8,5.7,,74410.7,121247,Metals,Materials,China,Shijiazhuang,,no,,no,yes,13,218.0,,Yu Yong,https://www.hbisco.com,,
+Shanghai Pudong Development Bank,201,19.0,52628.3,2.6,8443.6,-0.7,1219640.9,61686,Banks: Commercial and Savings,Financials,China,Shanghai,,no,,no,yes,9,220.0,,Zheng Yang,https://www.spdb.com.cn,,43729
+JBS,202,11.0,52429.0,1.1,892.2,-42,31538.6,250000,Food Production,"Food, Beverages & Tobacco",Brazil,Sao Paulo,,no,,no,yes,12,213.0,,Gilberto Tomazoni,https://jbs.com.br,JBSAY,14804
+Société Générale,203,-11.0,52068.3,-8.4,-294.0,-108.1,1789136.9,126391,Banks: Commercial and Savings,Financials,France,Paris,,no,,no,no,25,192.0,,Frédéric Oudéa,https://www.societegenerale.com,SCGLY,24122
+Morgan Stanley,204,-1.0,52047.0,-3.3,10996.0,21.6,1115862,68097,Banks: Commercial and Savings,Financials,U.S.,New York,New York City,no,,no,yes,24,203.0,,James P. Gorman,https://www.morganstanley.com,MS,175180
+State Bank of India,205,16.0,51919.4,,3018.9,8.3,662540,245652,Banks: Commercial and Savings,Financials,India,Mumbai,,no,,no,yes,16,221.0,,Dinesh Kumar Khara,https://www.sbi.co.in,SBKFF,50591
+PTT,206,-66.0,51647.5,-27.8,1207.2,-59.7,84834.4,29421,Petroleum Refining,Energy,Thailand,Bangkok,,no,,no,yes,18,140.0,,Auttapol Rerkpiboon,https://www.pttplc.com,PCHUY,31484
+HCA Healthcare,207,12.0,51533.0,0.4,3754.0,7.1,47490,235000,Health Care: Medical Facilities,Health Care,U.S.,Nashville,Tennessee,no,,no,yes,27,219.0,,Samuel N. Hazen,https://www.hcahealthcare.com,HCA,74002
+Tokio Marine Holdings,208,18.0,51516.7,2.5,1526.3,-36.1,232959.9,43257,Insurance: Property and Casualty (Stock),Financials,Japan,Tokyo,,no,,no,yes,27,226.0,,Satoru Komiya,https://www.tokiomarinehd.com,TKOMY,33007
+Vodafone Group,209,19.0,51054.5,2.2,130.5,,182044,96506,Telecommunications,Telecommunications,Britain,Newbury,,no,,no,yes,22,228.0,,Nick Read,https://www.vodafone.com,VOD,43163
+Christian Dior,210,-30.0,50877.6,-15.3,2202.6,-33,129743.6,139409,Apparel,Apparel,France,Paris,,no,,no,yes,21,180.0,,Sidney Toledano,https://www.dior-finance.com,CHDRY,144491
+Wilmar International,211,74.0,50526.8,18.5,1534.1,18.6,51020,100000,Food Production,"Food, Beverages & Tobacco",Singapore,Singapore,,no,,no,yes,13,285.0,,Kuok Khoon Hong,https://www.wilmar-international.com,WLMIY,20367
+Indian Oil,212,-61.0,50433.0,-27.2,2915.5,,48527.5,33439,Petroleum Refining,Energy,India,New Delhi,,no,,no,yes,27,151.0,,Shrikant Madhav Vaidya,https://www.iocl.com,,13492
+AIA Group,213,37.0,50359.0,6.6,5779.0,-13.1,326121,23397,"Insurance: Life, Health (stock)",Financials,China,Hong Kong,,no,,no,yes,7,250.0,,Lee Yuan Siong,https://www.aia.com,AAGIY,149443
+Vinci,214,-19.0,50270.2,-8.2,1415.2,-61.2,111567.7,217731,Engineering & Construction,Engineering & Construction,France,Rueil-Malmaison,,no,,no,yes,21,195.0,,Xavier Huillard,https://www.vinci.com,VCISY,62153
+Kia,215,14.0,50155.1,0.5,1261.0,-19.6,55653.6,51899,Motor Vehicles & Parts,Motor Vehicles & Parts,South Korea,Seoul,,no,,no,yes,10,229.0,,Ho-Sung Song/Jun-Young Choi,https://www.kia.com,,30793
+ENI,216,-103.0,50121.0,-37,-9839.1,-6039.7,134187.2,31495,Petroleum Refining,Energy,Italy,Rome,,no,,no,no,27,113.0,,Claudio Descalzi,https://www.eni.com,E,40903
+KDDI,217,24.0,50115.0,4,6145.7,4.4,95256.1,47320,Telecommunications,Telecommunications,Japan,Tokyo,,no,,no,yes,24,241.0,,Makoto Takahashi,https://www.kddi.com,KDDIY,72064
+Novartis,218,7.0,49898.0,-1.2,8072.0,-31.2,132059,105794,Pharmaceuticals,Health Care,Switzerland,Basel,,no,,no,yes,27,225.0,,Vasant Narasimhan,https://www.novartis.com,NVS,213292
+Renault,219,-44.0,49536.4,-20.3,-9124.7,,141638.9,170158,Motor Vehicles & Parts,Motor Vehicles & Parts,France,Boulogne-Billancourt,,no,,no,no,27,175.0,,Luca De Meo,https://group.renault.com,RNLSY,10754
+Shaanxi Coal & Chemical Industry,220,53.0,49314.3,12.6,120.8,1.1,91350.2,126707,"Mining, Crude-Oil Production",Energy,China,Xi'an,,no,,no,yes,7,273.0,,Yang Zhaoqian,https://www.shccig.com,,
+Cisco Systems,221,-10.0,49301.0,-5,11214.0,-3.5,94853,77500,Network and Other Communications Equipment,Technology,U.S.,San Jose,California,no,,no,yes,22,211.0,,Charles H. Robbins,https://www.cisco.com,CSCO,228355
+Korea Electric Power,222,5.0,49102.0,-2.3,1688.0,,186898.8,48519,Utilities,Energy,South Korea,"Naju, Jeollanam-do",,no,,no,yes,27,227.0,,Jong-Kap Kim,https://www.kepco.co.kr,KEP,14033
+Telefónica,223,-22.0,49082.9,-9.4,1802.6,41,128561.4,112797,Telecommunications,Telecommunications,Spain,Madrid,,no,,no,yes,27,201.0,,José María Álvarez-Pallete López,https://www.telefonica.com,TEF,26251
+China Minsheng Banking,224,15.0,49076.0,1.1,4972.3,-36.2,1065169.8,59262,Banks: Commercial and Savings,Financials,China,Beijing,,no,,no,yes,9,239.0,,Gao Yingxin,https://www.cmbc.com.cn,CMAKY,26874
+Jiangxi Copper,225,118.0,48820.1,32,194.7,14.9,25944.9,24528,Metals,Materials,China,Guixi,,no,,no,yes,9,343.0,,Zheng Gaoqing,https://www.jxcc.com,,
+POSCO,226,-32.0,48712.8,-12.4,1340.3,-16.2,73312.1,35393,Metals,Materials,South Korea,Seoul,,no,,no,yes,27,194.0,,Jeong-Woo Choi,https://www.posco.com,PKX,26219
+Bayer,227,-13.0,48483.6,-6.4,-11958.5,-361.2,143240.9,99538,Pharmaceuticals,Health Care,Germany,Leverkusen,,no,,no,no,27,214.0,,Werner Baumann,https://www.bayer.com,BAYRY,59168
+Power Corp. of Canada,228,118.0,48183.1,30.9,1525.7,74.5,493996.1,30000,"Insurance: Life, Health (stock)",Financials,Canada,"Montreal, Quebec",,no,,no,yes,23,346.0,,R. Jeffrey Orr,https://www.powercorporation.com,PWCDF,21089
+Orange,229,20.0,48164.5,1.9,5494.4,63.3,131843.6,142150,Telecommunications,Telecommunications,France,Paris,,no,,no,yes,27,249.0,,Stéphane Richard,https://www.orange.com,ORAN,29607
+Charter Communications,230,28.0,48097.0,5.1,3222.0,93.2,144206,96100,Telecommunications,Telecommunications,U.S.,Stamford,Connecticut,no,,no,yes,5,258.0,,Thomas M. Rutledge,https://www.charter.com,CHTR,153615
+COSCO Shipping,231,33.0,47998.3,7.5,1471.2,35.4,130251.3,110338,Shipping,Transportation,China,Shanghai,,no,,no,yes,14,264.0,,Xu Lirong,https://www.coscoshipping.com,,
+Merck,232,24.0,47994.0,2.5,7067.0,-28.2,91588,73500,Pharmaceuticals,Health Care,U.S.,Kenilworth,New Jersey,no,,no,yes,27,256.0,,Robert M. Davis,https://www.merck.com,MRK,202025
+ELO Group,233,-37.0,47607.3,-12.9,772.5,,28282,160606,Food & Drug Stores,Food & Drug Stores,France,Croix,,no,,no,yes,25,196.0,,Barthélémy Guislain,https://www.groupe-elo.com,,
+Shaanxi Yanchang Petroleum (Group),234,31.0,47529.1,6.7,160.7,-25.3,68054.2,131093,"Mining, Crude-Oil Production",Energy,China,Xi'an,,no,,no,yes,9,265.0,,Lan Jianwen,https://www.sxycpc.com,,
+Pegatron,235,34.0,47517.9,7.5,686.2,9.8,24370.5,169083,"Electronics, Electrical Equip.",Technology,Taiwan,Taipei,,no,,no,yes,9,269.0,,Syh-Jang Liao,https://www.pegatroncorp.com,,6377
+Anheuser-Busch InBev,236,-31.0,47358.0,-11.8,1405.0,-84.7,226410,163695,Beverages,"Food, Beverages & Tobacco",Belgium,Leuven,,no,,no,yes,16,205.0,,Michel Doukeris,https://www.ab-inbev.com,BUD,133201
+América Móvil,237,-28.0,47326.0,-9.6,2180.5,-38,81591,186851,Telecommunications,Telecommunications,Mexico,Mexico City,,no,,no,yes,15,209.0,,Daniel Hajj Aboumrad,https://www.americamovil.com,AMX,62462
+Best Buy,238,37.0,47262.0,8.3,1798.0,16.7,19067,81600,Specialty Retailers,Retailing,U.S.,Richfield,Minnesota,no,,yes,yes,23,275.0,,Corie S. Barry,https://investors.bestbuy.com/investor-relations/overview/default.aspx,BBY,23202
+Zhejiang Geely Holding Group,239,4.0,47191.0,-1.5,1352.3,9.8,74391.4,125764,Motor Vehicles & Parts,Motor Vehicles & Parts,China,Hangzhou,,no,,no,yes,10,243.0,,Li Donghui,https://www.geely.com,,
+China State Shipbuilding,240,0.0,46844.6,-15.5,1874.6,56.7,132019.3,218956,Shipping,Transportation,China,Beijing,,yes,,no,yes,1,240.0, ,Lei Fanpei,https://www.cssc.net.cn,,
+Talanx,241,30.0,46788.1,6.3,766.8,-25.8,221553.1,23527,Insurance: Property and Casualty (Stock),Financials,Germany,Hanover,,no,,no,yes,8,271.0,,Torsten Leue,https://www.talanx.com,TLLXY,10556
+New York Life Insurance,242,28.0,46712.4,5.9,-822.3,-181.9,359312.5,11506,"Insurance: Life, Health (Mutual)",Financials,U.S.,New York,New York City,no,,no,no,27,270.0,,Craig DeSanto,https://www.newyorklife.com,,-
+Oil & Natural Gas,243,-53.0,46597.1,-18.5,2189.3,42.3,74280.4,30105,"Mining, Crude-Oil Production",Energy,India,New Delhi,,no,,no,yes,15,190.0,,Subhash Kumar,https://www.ongcindia.com,,19516
+Denso,244,3.0,46569.3,-1.8,1179.7,88.3,61190.6,168391,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Kariya,,no,,no,yes,27,247.0,,Koji Arima,https://www.denso.com/global,DNZOY,51658
+MS&AD Insurance Group Holdings,245,1.0,46149.7,-2.9,1362.1,3.5,218287.2,41501,Insurance: Property and Casualty (Stock),Financials,Japan,Tokyo,,no,,no,yes,23,246.0,,Noriyuki Hara,https://www.ms-ad-hd.com,MSADY,17921
+Equinor,246,-77.0,45818.0,-28.8,-5510.0,-399,121972,21245,Petroleum Refining,Energy,Norway,Stavanger,,no,,no,no,27,169.0,,Anders Opedal,https://www.equinor.com,EQNR,63726
+AbbVie,247,131.0,45804.0,37.7,4616.0,-41.4,150565,47000,Pharmaceuticals,Health Care,U.S.,North Chicago,Illinois,no,,no,yes,6,378.0,,Richard A Gonzalez.,https://www.abbvie.com,ABBV,284955
+China Huaneng Group,248,18.0,45750.4,2.8,312.4,67.5,181995.3,128560,Energy,Energy,China,Beijing,,no,,no,yes,13,266.0,,Shu Yinbiao,https://www.chng.com.cn,,
+Nippon Steel Corporation,249,-51.0,45555.7,-16.4,-305.9,,68480.5,115632,Metals,Materials,Japan,Tokyo,,no,,no,no,27,198.0,,Eiji Hashimoto,https://www.nipponsteel.com,NPSCY,15926
+Royal Bank of Canada,250,-27.0,45508.8,-10.5,8496.9,-12.2,1218350.1,83842,Banks: Commercial and Savings,Financials,Canada,"Toronto, Ontario",,no,,no,yes,27,223.0,,David I. McKay,https://www.rbc.com,RY,164237
+Taiwan Semiconductor,251,111.0,45477.8,31.4,17343.6,51.4,98308.5,56831,Semiconductors and Other Electronic Components,Technology,Taiwan,Hsinchu,,no,,no,yes,7,362.0,,C.C. Wei,https://www.tsmc.com,TSM,600006
+Deutsche Bahn,252,-20.0,45465.2,-8.6,-6476.6,-967.5,80079.4,322768,Railroads,Transportation,Germany,Berlin,,no,,no,no,27,232.0,,Richard Lutz,https://www.deutschebahn.com,,
+Publix Super Markets,253,72.0,45204.0,17.5,3971.8,32.2,28094.1,227000,Food & Drug Stores,Food & Drug Stores,U.S.,Lakeland,Florida,no,,no,yes,27,325.0,,Randall T. Jones Sr.,https://www.publix.com,,-
+Allstate,254,9.0,44791.0,0.3,5576.0,15,125987,42010,Insurance: Property and Casualty (Stock),Financials,U.S.,Northbrook,Illinois,no,,no,yes,26,263.0,,Thomas J. Wilson,https://www.allstate.com,ALL,34232
+Zhejiang Rongsheng Holding Group,255,0.0,44725.9,50.3,626.5,254.9,40749.4,20493,Chemicals,Chemicals,China,Hangzhou,,yes,,no,yes,1,255.0, ,Li Shuirong,https://www.rong-sheng.com,,
+Rio Tinto,256,24.0,44611.0,3.3,9769.0,22,97390,47474,"Mining, Crude-Oil Production",Energy,Britain,London,,no,,no,yes,16,280.0,,Jakob Stausholm,https://www.riotinto.com,RIO,121356
+Pemex,257,-124.0,44383.6,-39.1,-23683.3,,96826.2,123899,"Mining, Crude-Oil Production",Energy,Mexico,Mexico City,,no,,no,no,27,133.0,,Octavio Romero Oropeza,https://www.pemex.com,,
+Accenture,258,21.0,44327.0,2.6,5107.8,6.9,37078.6,506000,Information Technology Services,Technology,Ireland,Dublin,,no,,yes,yes,20,279.0,,Julie T. Sweet,https://www.accenture.com,ACN,207572
+Edeka Zentrale,259,53.0,44158.6,10.9,315.4,-17.2,10567.4,402000,Wholesalers: Food and Grocery,Wholesalers,Germany,Hamburg,,no,,no,yes,23,312.0,,Markus Mosa,https://www.verbund.edeka,,
+China United Network Communications,260,30.0,44034.4,4.7,800.2,11,89268.3,242121,Telecommunications,Telecommunications,China,Beijing,,no,,no,yes,13,290.0,,Wang Xiaochu,https://www.chinaunicom-a.com,,20417
+Sumitomo,261,-23.0,43817.9,-10.1,-1443.9,-191.6,73055.9,74920,Trading,Wholesalers,Japan,Tokyo,,no,,no,no,27,238.0,,Masayuki Hyodo,https://www.sumitomocorp.com,SSUMY,16561
+Liberty Mutual Insurance Group,262,16.0,43796.0,1.3,758.0,-27.4,145377,45000,Insurance: Property and Casualty (Stock),Financials,U.S.,Boston,Massachusetts,no,,no,yes,27,278.0,,David H. Long,https://www.libertymutual.com,,
+American International Group,263,-32.0,43736.0,-12.1,-5944.0,-277.5,586481,45000,Insurance: Property and Casualty (Stock),Financials,U.S.,New York,New York City,no,,no,no,26,231.0,,Peter S. Zaffino,https://www.aig.com,AIG,40813
+GlaxoSmithKline,264,18.0,43731.8,1.5,7373.1,24.4,109949.2,94066,Pharmaceuticals,Health Care,Britain,Brentford,,no,,yes,yes,27,282.0,,Emma N. Walmsley,https://www.gsk.com,GSK,97637
+Groupe BPCE,265,-23.0,43475.7,-9.3,1834.5,-45.9,1769944,98790,Banks: Commercial and Savings,Financials,France,Paris,,no,,no,yes,12,242.0,,Laurent Mignon,https://www.groupebpce.com,,
+Saint-Gobain,266,-22.0,43444.9,-8.8,519.6,-67,59508.5,167552,"Building Materials, Glass",Materials,France,Courbevoie,,no,,no,yes,27,244.0,,Pierre-André de Chalendar,https://www.saint-gobain.com,CODYY,36284
+Lloyds Banking Group,267,-97.0,43440.7,-32.4,1690.3,-54.7,1191024.7,61576,Banks: Commercial and Savings,Financials,Britain,London,,no,,no,yes,27,170.0,,Charlie Nunn,https://www.lloydsbankinggroup.com,LYG,44189
+Swiss Re,268,-35.0,43338.0,-12.1,-878.0,-220.8,182622,13189,Insurance: Property and Casualty (Stock),Financials,Switzerland,Zurich,,no,,no,no,27,233.0,,Christian Mumenthaler,https://www.swissre.com,SSREY,33763
+Sberbank,269,-29.0,43263.6,-10.5,10527.2,-19.4,487263.1,285555,Banks: Commercial and Savings,Financials,Russia,Moscow,,no,,no,yes,14,240.0,,Herman O. Gref,https://www.sberbank.ru,SBRCY,86815
+Tyson Foods,270,17.0,43185.0,1.8,2061.0,4.1,34456,139000,Food Production,"Food, Beverages & Tobacco",U.S.,Springdale,Arkansas,no,,no,yes,20,287.0,,Donnie D. King,https://www.tysonfoods.com,TSN,32652
+Hanwha,271,6.0,43168.9,-0.2,181.2,134.8,175891.6,53801,"Insurance: Life, Health (stock)",Financials,South Korea,Seoul,,no,,no,yes,16,277.0,,Kyeong-Seak Ok/Choon-Soo Keum,https://www.hanwha.com,,1974
+Continental,272,-42.0,42982.7,-13.7,-1096.0,,48509,236386,Motor Vehicles & Parts,Motor Vehicles & Parts,Germany,Hanover,,no,,no,no,19,230.0,,Nikolai Setzer,https://www.continental.com,CTTAY,20113
+BHP Group,273,-12.0,42931.0,-4.9,7956.0,-4.2,104783,31589,"Mining, Crude-Oil Production",Energy,Australia,Melbourne,,no,,no,yes,27,261.0,,Mike Henry,https://www.bhp.com,BHP,166333
+Woolworths Group,274,-14.0,42677.8,-6.3,780.8,-59.4,26503.4,215000,Food & Drug Stores,Food & Drug Stores,Australia,Bella Vista,,no,,no,yes,25,260.0,,Brad Banducci,https://www.woolworthsgroup.com.au,WOLWF,36605
+Progressive,275,48.0,42658.1,9.3,5704.6,43.7,64098.3,43326,Insurance: Property and Casualty (Stock),Financials,U.S.,Mayfield Village,Ohio,no,,yes,yes,8,323.0,,Tricia Griffith,https://www.progressive.com,PGR,68235
+Sanofi,276,13.0,42580.1,1.1,14031.2,346.8,140160.6,99412,Pharmaceuticals,Health Care,France,Paris,,no,,no,yes,17,289.0,,Paul Hudson,https://www.sanofi.com,SNY,129812
+Petronas,277,-91.0,42562.5,-26.7,-5679.5,-171.2,142803.7,48679,Energy,Energy,Malaysia,Kuala Lumpur,,no,,no,no,25,186.0,,Tengku Muhammad Taufik,https://www.petronas.com,,
+Bristol-Myers Squibb,278,209.0,42518.0,62.6,-9015.0,-362.1,118481,30250,Pharmaceuticals,Health Care,U.S.,New York,New York City,no,,no,no,18,487.0,,Giovanni Caforio,https://www.bms.com,BMY,141036
+Tsingshan Holding Group,279,50.0,42448.1,11.7,1129.3,36.7,13204.5,75102,Metals,Materials,China,Wenzhou,,no,,no,yes,3,329.0,,Sun Jianfen,https://www.tssgroup.com.cn,,
+Nationwide,280,-8.0,41929.8,-4.7,-138.4,-116.7,256589.3,25391,Insurance: Property and Casualty (Mutual),Financials,U.S.,Columbus,Ohio,no,,no,no,27,272.0,,Kirt A. Walker,https://www.nationwide.com,,
+Pfizer,281,-66.0,41908.0,-19,9616.0,-40.9,154229,78500,Pharmaceuticals,Health Care,U.S.,New York,New York City,no,,no,yes,27,215.0,,Albert Bourla,https://www.pfizer.com,PFE,296303
+Shandong Weiqiao Pioneering Group,282,26.0,41878.8,3.6,1236.0,56,37715.8,100395,Textiles,Industrials,China,Shandong,,no,,no,yes,10,308.0,,Zhang Bo,https://www.weiqiaocy.com,,
+Caterpillar,283,-79.0,41748.0,-22.4,2998.0,-50.8,78324,97300,Construction and Farm Machinery,Industrials,U.S.,Deerfield,Illinois,no,,no,yes,27,204.0,,D. James Umpleby III,https://www.caterpillar.com,CAT,115810
+Sinomach,284,-3.0,41712.0,-3.3,570.9,26.2,54390.5,139453,Industrial Machinery,Industrials,China,Beijing,,no,,no,yes,11,281.0,,Zhang Xiaolun,https://www.sinomach.com.cn,,
+TIAA,285,21.0,41619.3,2.9,558.1,-77.3,654252,14953,"Insurance: Life, Health (Mutual)",Financials,U.S.,New York,New York City,no,,yes,yes,24,306.0,,Thasunda Brown Duckett,https://www.tiaa-cref.org,,-
+Ingka Group,286,0.0,41580.4,-6.1,1323.0,-35.7,62380.9,166350,Specialty Retailers,Retailing,Netherlands,Leiden,,yes,,no,yes,1,286.0, ,Jesper Brodin,https://www.ingka.com,,
+Pertamina,287,0.0,41469.5,-24,1051.1,-58.4,69143.8,34564,Petroleum Refining,Energy,Indonesia,Jakarta,,yes,,yes,yes,8,287.0, ,Nicke Widyawati,https://www.pertamina.com,,
+Midea Group,288,19.0,41407.1,2.4,3945.3,12.6,55231.1,149239,"Electronics, Electrical Equip.",Industrials,China,Foshan,,no,,no,yes,6,307.0,,Fang Hongbo,https://www.midea-group.com,,74425
+Bunge,289,8.0,41404.0,0.6,1145.0,,23655,23000,Food Production,"Food, Beverages & Tobacco",U.S.,St. Louis,Missouri,no,,no,yes,19,297.0,,Gregory A. Heckman,https://www.bunge.com,BG,10544
+Fresenius,290,23.0,41335.8,4.3,1945.0,-7.7,81561.4,277822,Health Care: Medical Facilities,Health Care,Germany,Bad Homburg,,no,,no,yes,12,313.0,,Stephan Sturm,https://www.fresenius.com,FSNUY,22806
+Intesa Sanpaolo,291,19.0,41258.3,2.2,3734.0,-20.2,1226999,105615,Banks: Commercial and Savings,Financials,Italy,Turin,,no,,no,yes,23,310.0,,Carlo Messina,https://www.group.intesasanpaolo.com,ISNPY,51438
+George Weston,292,38.0,40792.6,8,718.1,293.7,37750.3,220000,Food & Drug Stores,Food & Drug Stores,Canada,"Toronto, Ontario",,no,,no,yes,27,330.0,,Galen G. Weston,https://www.weston.ca,WNGRF,14861
+State Power Investment,293,23.0,40322.8,2.3,343.8,91.5,202932.9,123727,Energy,Energy,China,Beijing,,no,,no,yes,10,316.0,,Qian Zhimin,https://www.spic.com.cn,,
+Vale,294,39.0,40018.0,6.5,4881.0,,92007,74316,"Mining, Crude-Oil Production",Energy,Brazil,Rio de Janeiro,,no,,no,yes,15,333.0,,Eduardo de Salles Bartolomeo,https://www.vale.com,VALE,116738
+ACS,295,-21.0,39967.2,-8.6,654.0,-39.3,45689,150265,Engineering & Construction,Engineering & Construction,Spain,Madrid,,no,,no,yes,17,274.0,,Florentino Pérez Rodríguez,https://www.grupoacs.com,ACSAY,7988
+Toronto-Dominion Bank,296,-29.0,39899.5,-10.3,8841.0,0.7,1286834.4,89598,Banks: Commercial and Savings,Financials,Canada,"Toronto, Ontario",,no,,no,yes,22,267.0,,Bharat B. Masrani,https://www.td.com,TD,119384
+Maersk Group,297,23.0,39740.0,1.4,2850.0,,56117,83624,Shipping,Transportation,Denmark,Copenhagen,,no,,no,yes,18,320.0,,Soren Skou,https://www.maersk.com,AMKBY,64469
+ThyssenKrupp,298,-50.0,39658.8,-16.3,10725.1,,42766.3,103598,Metals,Materials,Germany,Essen,,no,,yes,yes,27,248.0,,Martina Merz,https://www.thyssenkrupp.com,TKAMY,5962
+Bouygues,299,-13.0,39607.3,-6.9,793.1,-40.2,49714.4,129018,Engineering & Construction,Engineering & Construction,France,Paris,,no,,no,yes,27,286.0,,Olivier Roussat,https://www.bouygues.com,BOUYY,14299
+Mitsubishi Electric,300,0.0,39538.8,-3.7,1821.9,-10.7,43380.8,145653,"Electronics, Electrical Equip.",Industrials,Japan,Tokyo,,no,,no,yes,27,300.0,,Takeshi Sugiyama,https://www.mitsubishielectric.com,MIELY,28770
+China Energy Engineering Group,301,52.0,39439.0,9.2,507.6,28.4,73015,120963,Engineering & Construction,Engineering & Construction,China,Beijing,,no,,no,yes,8,353.0,,Song Hailiang,https://www.ceec.net.cn,,
+UBS Group,302,-9.0,39298.0,-5.3,6557.0,52.3,1125765,71551,Banks: Commercial and Savings,Financials,Switzerland,Zurich,,no,,no,yes,27,293.0,,Ralph A. J. G. Hamers,https://www.ubs.com,UBS,71385
+Finatis,303,-41.0,39197.1,-13,-211.9,,39314.6,203002,Food & Drug Stores,Food & Drug Stores,France,Paris,,no,,no,no,7,262.0,,Didier Lévêque,https://www.finatis.fr,,236
+Oracle,304,10.0,39068.0,-1.1,10135.0,-8.6,115438,135000,Computer Software,Technology,U.S.,Austin,Texas,no,,yes,yes,15,314.0,,Safra A. Catz,https://www.oracle.com,ORCL,253206
+Energy Transfer,305,-105.0,38954.0,-28.1,-648.0,-118,95144,11421,Pipelines,Energy,U.S.,Dallas,Texas,no,,no,no,8,200.0,,Thomas E. Long/Marshall S. McCrea III,https://www.energytransfer.com,ET,26873
+Daiwa House Industry,306,5.0,38928.8,-3.4,1840.2,-14.4,45687.6,48807,Engineering & Construction,Engineering & Construction,Japan,Osaka,,no,,no,yes,17,311.0,,Keiichi Yoshii,https://www.daiwahouse.co.jp,DWAHY,20378
+China Aerospace Science & Technology,307,45.0,38741.9,7,2735.1,4.1,79504.3,179085,Aerospace & Defense,Aerospace & Defense,China,Beijing,,no,,no,yes,7,352.0,,Wu Yansheng,https://www.spacechina.com,,
+Jiangsu Shagang Group,308,43.0,38664.5,6,1144.5,59.5,46318.1,45060,Metals,Materials,China,Zhangjiagang,,no,,no,yes,13,351.0,,Shen Bin,https://www.shasteel.cn,,
+Zhejiang Hengyi Group,309,0.0,38561.7,16.5,152.0,-22.8,17406.1,22019,Chemicals,Chemicals,China,Hangzhou,,yes,,no,yes,1,309.0, ,Qiu Jianlin,https://www.hengyi.com,,
+Dow,310,-27.0,38542.0,-10.3,1225.0,,61470,35700,Chemicals,Chemicals,U.S.,Midland,Michigan,no,,no,yes,2,283.0,,James R. Fitterling,https://www.dow.com,DOW,47561
+Shenghong Holding Group,311,144.0,38440.0,37.9,519.8,6.9,17638.6,32272,Chemicals,Chemicals,China,Suzhou City,,no,,no,yes,2,455.0,,Miao Hangen,https://www.shenghonggroup.cn,,
+American Express,312,-61.0,38185.0,-18.8,3135.0,-53.6,191367,63700,Diversified Financials,Financials,U.S.,New York,New York City,no,,no,yes,27,251.0,,Stephen J. Squeri,https://www.americanexpress.com,AXP,144097
+Meiji Yasuda Life Insurance,313,21.0,38003.6,1.4,1780.4,-6.9,415712.5,46928,"Insurance: Life, Health (Mutual)",Financials,Japan,Tokyo,,no,,no,yes,27,334.0,,Hideki Nagashima,https://www.meijiyasuda.co.jp,,
+J. Sainsbury,314,30.0,37943.5,3,-365.7,-289.4,34703.4,117000,Food & Drug Stores,Food & Drug Stores,Britain,London,,no,,no,no,27,344.0,,Simon Roberts,https://www.about.sainsburys.co.uk,JSAIY,8665
+Anhui Conch Group,315,52.0,37929.8,11.8,1878.4,5.9,37624.1,59823,"Building Materials, Glass",Materials,China,Wuhu,,no,,no,yes,3,367.0,,Wang Cheng,https://www.chinaconch.com,,
+General Dynamics,316,1.0,37925.0,-3.6,3167.0,-9.1,51308,100700,Aerospace & Defense,Aerospace & Defense,U.S.,Reston,Virginia,no,,yes,yes,21,317.0,,Phebe N. Novakovic,https://www.gd.com,GD,57671
+Deutsche Bank,317,-26.0,37852.5,-9.4,550.4,,1621487.3,84659,Banks: Commercial and Savings,Financials,Germany,Frankfurt,,no,,no,yes,27,291.0,,Christian Sewing,https://www.db.com,DB,25415
+Idemitsu Kosan,318,-82.0,37792.3,-22.7,329.4,,35754.5,16560,Petroleum Refining,Energy,Japan,Tokyo,,no,,no,yes,27,236.0,,Shunichi Kito,https://www.idemitsu.com,IDKOY,6923
+Iberdrola,319,-16.0,37767.0,-7.4,4114.6,7.9,149937.5,35637,Utilities,Energy,Spain,Bilbao,,no,,no,yes,17,303.0,,José Ignacio Sánchez Galán,https://www.iberdrola.com,IBDRY,76080
+China Aerospace Science & Industry,320,12.0,37697.0,0.2,1955.0,-0.2,58851.6,145148,Aerospace & Defense,Aerospace & Defense,China,Beijing,,no,,no,yes,6,332.0,,Yuan Jie,https://www.casic.com.cn,,
+Nike,321,1.0,37403.0,-4.4,2539.0,-37,31342,75400,Apparel,Apparel,U.S.,Beaverton,Oregon,no,,no,yes,15,322.0,,John J. Donahoe II,https://www.nike.com,NKE,226046
+Itaú Unibanco Holding,322,-106.0,37279.7,-27.9,3666.5,-46.7,388788.5,96540,Banks: Commercial and Savings,Financials,Brazil,Sao Paulo,,no,,no,yes,8,216.0,,Milton Maluhy Filho,https://www.itau.com.br,ITUB,51978
+ZF Friedrichshafen,323,-21.0,37158.6,-9.1,-940.0,-340,44950.2,153522,Motor Vehicles & Parts,Motor Vehicles & Parts,Germany,Friedrichshafen,,no,,no,no,8,302.0,,Wolf-Henning Scheider,https://www.zf.com,,-
+Quanta Computer,324,53.0,37042.9,11.2,860.1,66.7,23640.8,90895,"Computers, Office Equipment",Technology,Taiwan,Taoyuan,,no,,no,yes,16,377.0,,Barry Lam,https://www.quantatw.com,,12407
+Sumitomo Mitsui Financial Group,325,-88.0,36811.4,-24.7,4837.5,-25.3,2193348.2,86781,Banks: Commercial and Savings,Financials,Japan,Tokyo,,no,,no,yes,27,237.0,,Jun Ohta,https://www.smfg.co.jp,SMFG,45801
+Northrop Grumman,326,42.0,36799.0,8.7,3189.0,41.9,44469,97000,Aerospace & Defense,Aerospace & Defense,U.S.,Falls Church,Virginia,no,,yes,yes,22,368.0,,Kathy J. Warden,https://www.northropgrumman.com,NOC,63226
+Volvo,327,-68.0,36754.3,-19.6,2097.9,-44.7,62266.4,91843,Motor Vehicles & Parts,Motor Vehicles & Parts,Sweden,Göteborg,,no,,no,yes,27,259.0,,Martin Lundstedt,https://www.volvogroup.com,VLVLY,47691
+Suning.com Group,328,-4.0,36564.5,-6.2,-619.5,-143.5,32501.9,69398,Specialty Retailers,Retailing,China,Nanjing,,no,,no,no,5,324.0,,Hou Enlong,https://www.suning.com,,8618
+Metro,329,-35.0,36524.7,-11.7,514.7,,15461,95779,Wholesalers: Food and Grocery,Wholesalers,Germany,Düsseldorf,,no,,no,yes,4,294.0,,Steffen Greubel,https://www.metroag.de,MTTWF,4439
+USAA,330,25.0,36296.2,1.9,3906.9,-2.5,200348.4,35935,Insurance: Property and Casualty (Stock),Financials,U.S.,San Antonio,Texas,no,,no,yes,8,355.0,,Wayne Peacock,https://www.usaa.com,,-
+Sompo Holdings,331,32.0,36283.3,4.9,1344.1,19.3,118613.5,48115,Insurance: Property and Casualty (Stock),Financials,Japan,Tokyo,,no,,no,yes,25,363.0,,Kengo Sakurada,https://www.sompo-hd.com,SMPNY,15233
+Yango Longking Group,332,22.0,36263.9,1,540.2,-12,72575.7,28670,Diversified Financials,Financials,China,Fuzhou,,no,,no,yes,5,354.0,,Lin Tengjiao,https://www.yangoholdings.com/,,
+Chubb,333,33.0,35994.0,5.3,3533.0,-20.7,190774,31000,Insurance: Property and Casualty (Stock),Financials,Switzerland,Zurich,,no,,no,yes,5,366.0,,Evan G. Greenberg,https://www.chubb.com/us-en,CB,82707
+China Electronics,334,52.0,35930.9,10.7,-97.2,-170.6,53587.7,180822,"Electronics, Electrical Equip.",Technology,China,Beijing,,no,,no,no,11,386.0,,Rui Xiaowu,https://www.cec.com.cn,,
+Heraeus Holding,335,0.0,35929.1,43.3,,,7055.2,14809,Metals,Materials,Germany,Hanau,,yes,,no,no,9,335.0, ,Jan Rinnert,https://www.heraeus.com,,
+Jinchuan Group,336,33.0,35907.1,6.2,360.4,20.9,17602.1,29220,Metals,Materials,China,Jinchang City,,no,,no,yes,3,369.0,,Wang Yongqian,https://www.jnmc.com,,
+Banco Bilbao Vizcaya Argentaria,337,-83.0,35872.1,-23.5,1487.0,-62.2,900932.2,123174,Banks: Commercial and Savings,Financials,Spain,Bilbao,,no,,no,yes,27,254.0,,Onur Genç,https://www.bbva.com,BBVA,41186
+Xiaomi,338,84.0,35632.6,19.6,2950.1,102.9,38878.1,22074,Internet Services and Retailing,Technology,China,Beijing,,no,,no,yes,3,422.0,,Lei Jun,https://www.mi.com,XIACY,60758
+Compal Electronics,339,57.0,35619.1,12.3,317.9,41.3,16627.8,112761,"Computers, Office Equipment",Technology,Taiwan,Taipei,,no,,no,yes,10,396.0,,Martin Wong,https://www.compal.com,,3460
+Deere,340,-21.0,35540.0,-9.5,2751.0,-15.4,75091,69634,Construction and Farm Machinery,Industrials,U.S.,Moline,Illinois,no,,no,yes,27,319.0,,John C. May,https://www.deere.com,DE,112270
+La Poste,341,92.0,35533.7,22.2,2374.6,158.1,927801.9,219625,"Mail, Package, and Freight Delivery",Transportation,France,Paris,,no,,no,yes,26,433.0,,Philippe Wahl,https://www.groupelaposte.com,,-
+DZ Bank,342,-21.0,35498.4,-9.3,993.6,-47.6,727638.4,28061,Banks: Commercial and Savings,Financials,Germany,Frankfurt,,no,,no,yes,27,321.0,,Cornelius Riese/Uwe Fröhlich,https://www.dzbank.com,,
+Taikang Insurance Group,343,81.0,35475.6,20.2,3483.6,8.5,173121.2,56899,"Insurance: Life, Health (Mutual)",Financials,China,Beijing,,no,,no,yes,4,424.0,,Chen Dongsheng,https://www.taikang.com,,
+China Taiping Insurance Group,344,48.0,35460.5,11.1,415.1,-29.1,150763.8,65900,"Insurance: Life, Health (Mutual)",Financials,China,Hong Kong,,no,,no,yes,4,392.0,,Wang Sidong,https://www.cntaiping.com,,
+Barclays,345,-18.0,35404.6,-7.6,3056.2,-26.8,1844785.6,83000,Banks: Commercial and Savings,Financials,Britain,London,,no,,no,yes,27,327.0,,C.S. Venkatakrishnan,https://www.home.barclays,BCS,38684
+Cathay Financial Holding,346,28.0,35123.5,4.8,2532.5,24.7,389960.2,57848,"Insurance: Life, Health (stock)",Financials,Taiwan,Taipei,,no,,no,yes,20,374.0,,Hong-Tu Tsai,https://www.cathayholdings.com,,28247
+Mitsubishi Heavy Industries,347,-8.0,34902.5,-6.1,383.4,-52.2,43496.6,79974,Industrial Machinery,Industrials,Japan,Tokyo,,no,,no,yes,27,339.0,,Seiji Izumisawa,https://www.mhi.com,MHVYF,9398
+Rajesh Exports,348,114.0,34804.8,26.2,113.9,-33,3209.4,377,Trading,Wholesalers,India,Bengaluru,,no,,no,yes,6,462.0,,Rajesh J. Mehta,https://www.rajeshindia.com,,2281
+CRRC Group,349,12.0,34778.2,0.2,748.0,43,66931.8,179374,Industrial Machinery,Industrials,China,Beijing,,no,,no,yes,3,361.0,,Sun Yongcai,https://www.crrcgc.cc,,
+Abbott Laboratories,350,43.0,34608.0,8.5,4495.0,21.9,72548,109000,Medical Products and Equipment,Health Care,U.S.,Abbott Park,Illinois,no,,no,yes,23,393.0,,Robert B. Ford,https://www.abbott.com,ABT,222504
+China South Industries Group,351,83.0,34454.6,18.6,852.6,-13.7,54926.3,164918,Aerospace & Defense,Aerospace & Defense,China,Beijing,,no,,no,yes,12,434.0,,Gong Yande,https://www.csgc.com.cn,,
+China Huadian,352,18.0,34440.0,1.9,584.8,88.4,131960.5,93331,Utilities,Energy,China,Beijing,,no,,no,yes,10,370.0,,Wen Shugang,https://www.chd.com.cn,,
+CK Hutchison Holdings,353,-25.0,34347.1,-10,3757.5,-26.1,161804,300000,Specialty Retailers,Retailing,China,Hong Kong,,no,,no,yes,6,328.0,,"Li Tzar Kuoi, Victor/Fok Kin Ning, Canning",https://www.ckh.com.hk,CKHUY,28624
+China Electronics Technology Group,354,27.0,34311.4,4.1,1879.6,7.9,69212.3,179390,Aerospace & Defense,Aerospace & Defense,China,Beijing,,no,,no,yes,6,381.0,,Chen Zhaoxiong,https://www.cetc.com.cn,,
+Poste Italiane,355,-5.0,34205.1,-6.7,1375.3,-8.4,333310.5,123583,"Insurance: Life, Health (stock)",Financials,Italy,Rome,,no,,no,yes,16,350.0,,Matteo Del Fante,https://www.posteitaliane.it,,17069
+SNCF Group,356,-38.0,34155.0,-13.1,-3452.5,,156584,271509,Railroads,Transportation,France,St. Denis,,no,,no,no,27,318.0,,Jean-Pierre Farandou,https://www.sncf.com,,
+Tata Motors,357,-20.0,34012.8,-8.7,-1812.4,,46915.5,75278,Motor Vehicles & Parts,Motor Vehicles & Parts,India,Mumbai,,no,,no,no,12,337.0,,Girish Wagh,https://www.tatamotors.com,TTM,14420
+Fujitsu,358,-2.0,33862.5,-4.6,1912.1,29.9,28844.5,126371,Information Technology Services,Technology,Japan,Tokyo,,no,,no,yes,27,356.0,,Takahito Tokita,https://www.fujitsu.com,FJTSY,34063
+Cedar Holdings Group,359,-63.0,33837.0,-18,49.6,-59.4,18875.2,23856,Trading,Wholesalers,China,Guangzhou,,no,,no,yes,4,296.0,,Zhang Jing,https://www.cedarhd.com,,
+Northwestern Mutual,360,28.0,33782.1,4.6,425.0,-66.5,308767,6641,"Insurance: Life, Health (Mutual)",Financials,U.S.,Milwaukee,Wisconsin,no,,no,yes,27,388.0,,John E. Schlifske,https://www.northwesternmutual.com,,-
+Dollar General,361,99.0,33746.8,21.6,2655.1,55,25862.6,158000,Specialty Retailers,Retailing,U.S.,Goodlettsville,Tennessee,no,,no,yes,4,460.0,,Todd J. Vasos,https://www.dollargeneral.com,DG,48700
+Louis Dreyfus,362,9.0,33564.0,-0.7,382.0,66.1,23253,15708,Food Production,"Food, Beverages & Tobacco",Netherlands,Rotterdam,,no,,no,yes,8,371.0,,Michael Gelchie,https://www.ldc.com,,-
+Shanghai Construction Group,363,60.0,33525.6,12.7,485.6,-14.6,49250.1,48609,Engineering & Construction,Engineering & Construction,China,Shanghai,,no,,no,yes,2,423.0,,Bian Jiajun,https://www.scg.com.cn,,3729
+Sunac China Holdings,364,0.0,33418.4,36.4,5165.8,37.1,169870.5,64436,Real estate,Financials,China,Beijing,,yes,,no,yes,1,364.0, ,Wang Mengde,https://www.sunac.com.cn,,14500
+Aisin,365,-6.0,33259.7,-4.5,996.5,350.3,36411.4,118359,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Kariya,,no,,no,yes,20,359.0,,Kiyotaka Ise,https://www.aisin.com,ASEKY,12595
+KB Financial Group,366,60.0,33201.2,12.7,2928.8,3.1,561842.5,26948,Banks: Commercial and Savings,Financials,South Korea,Seoul,,no,,no,yes,9,426.0,,Jong Kyoo Yoon,https://www.kbfg.com,KB,18720
+Sumitomo Life Insurance,367,24.0,33183.4,3.5,254.4,431.1,371555.9,42954,"Insurance: Life, Health (Mutual)",Financials,Japan,Osaka,,no,,no,yes,27,391.0,,Yukinori Takada,https://www.sumitomolife.co.jp,,
+British American Tobacco,368,11.0,33057.6,0.1,8208.0,12.8,188222.2,55329,Tobacco,"Food, Beverages & Tobacco",Britain,London,,no,,no,yes,24,379.0,,Jack Bowles,https://www.bat.com,BTI,86393
+Exelon,369,-5.0,33039.0,-4.1,1963.0,-33.1,129317,32340,Utilities,Energy,U.S.,Chicago,Illinois,no,,no,yes,18,364.0,,Christopher M. Crane,https://www.exeloncorp.com,EXC,55451
+Coca-Cola,370,-35.0,33014.0,-11.4,7747.0,-13.2,87296,80300,Beverages,"Food, Beverages & Tobacco",U.S.,Atlanta,Georgia,no,,no,yes,27,335.0,,James R. Quincey,https://www.coca-colacompany.com,KO,261109
+China National Nuclear,371,122.0,32662.8,25.7,1188.3,7.6,139809.5,183400,Energy,Energy,China,Beijing,,no,,no,yes,2,493.0,,Yu Jianfeng,https://www.cnnc.com.cn,,
+Magna International,372,-57.0,32647.0,-17.2,757.0,-57.1,28605,158000,Motor Vehicles & Parts,Motor Vehicles & Parts,Canada,"Aurora, Ontario",,no,,no,yes,21,315.0,,Seetarama Kotagiri,https://www.magna.com,MGA,25684
+Jardine Matheson,372,-71.0,32647.0,-20.2,-394.0,-113.9,93526,403000,Motor Vehicles & Parts,Motor Vehicles & Parts,China,Hong Kong,,no,,no,no,22,301.0,,John Witt,https://www.jardines.com,JMHLY,44887
+Honeywell International,374,-27.0,32637.0,-11.1,4779.0,-22.2,64586,103000,"Electronics, Electrical Equip.",Industrials,U.S.,Charlotte,North Carolina,no,,no,yes,27,347.0,,Darius E. Adamczyk,https://www.honeywell.com,HON,141196
+Jingye Group,375,0.0,32528.2,76.4,607.3,-6.9,10708.7,31000,Metals,Materials,China,Shijiazhuang,,yes,,no,yes,1,375.0, ,Li Ganpo,https://www.hbjyjt.com,,
+Bank of Nova Scotia,376,-18.0,32501.1,-7.4,5037.8,-20.2,852306.9,92001,Banks: Commercial and Savings,Financials,Canada,"Toronto, Ontario",,no,,no,yes,24,358.0,,Brian J. Porter,https://www.scotiabank.com,BNS,74731
+Phoenix Pharma,377,33.0,32386.9,6.2,221.3,3337.1,12566.5,33090,Wholesalers: Health Care,Health Care,Germany,Mannheim,,no,,no,yes,11,410.0,,Sven Seidel,https://www.phoenixgroup.eu,,
+Credit Suisse Group,378,-21.0,32343.3,-9.9,2843.4,-17.4,911976,48770,Banks: Commercial and Savings,Financials,Switzerland,Zurich,,no,,no,yes,27,357.0,,Thomas P. Gottstein,https://www.credit-suisse.com,CS,26421
+Sun Life Financial,379,39.0,32315.7,8.1,1862.7,-8.9,253640.4,23816,"Insurance: Life, Health (stock)",Financials,Canada,"Toronto, Ontario",,no,,no,yes,15,418.0,,Kevin D. Strain,https://www.sunlife.com,SLF,29797
+Thermo Fisher Scientific,380,118.0,32218.0,26.1,6375.0,72.5,69052,84362,"Scientific,Photographic and Control Equipment",Technology,U.S.,Waltham,Massachusetts,no,,no,yes,2,498.0,,Marc N. Casper,https://www.thermofisher.com,TMO,228678
+Repsol,381,-136.0,32188.3,-32.3,-3747.6,,60335.8,23203,Petroleum Refining,Energy,Spain,Madrid,,no,,no,no,27,245.0,,Josu Jon Imaz San Miguel,https://www.repsol.com,REPYY,16513
+3M,382,7.0,32184.0,0.1,5384.0,17.8,47344,94987,Chemicals,Chemicals,U.S.,St. Paul,Minnesota,no,,no,yes,27,389.0,,Michael F. Roman,https://www.3m.com,MMM,99490
+TJX,383,-91.0,32137.0,-23,90.5,-97.2,30813.6,320000,Specialty Retailers,Retailing,U.S.,Framingham,Massachusetts,no,,no,yes,20,292.0,,Ernie L. Herrman,https://www.tjx.com,TJX,80472
+Shandong Iron & Steel Group,384,75.0,31990.3,15.3,129.4,496.6,57269.8,50131,Metals,Materials,China,Jinan,,no,,no,yes,2,459.0,,Hou Jun,https://www.shansteelgroup.com,,
+Travelers Cos.,385,14.0,31981.0,1.3,2697.0,2.9,116764,30294,Insurance: Property and Casualty (Stock),Financials,U.S.,New York,New York City,no,,no,yes,18,399.0,,Alan D. Schnitzer,https://www.travelers.com,TRV,39222
+Migros Group,386,62.0,31903.3,10.5,1882.4,434.3,82368.7,85226,Food & Drug Stores,Food & Drug Stores,Switzerland,Zurich,,no,,no,yes,27,448.0,,Fabrice Zumbrunnen,https://www.migros.ch,,
+L&#8217;Oréal,387,-12.0,31895.6,-4.6,4060.3,-3.3,53366.1,85392,Household and Personal Products,Household Products,France,Clichy,,no,,no,yes,27,375.0,,Nicolas Hieronimus,https://www.loreal.com,LRLCY,237592
+Fubon Financial Holding,388,15.0,31837.8,2.7,3065.4,62,329206.7,44369,"Insurance: Life, Health (stock)",Financials,Taiwan,Taipei,,no,,no,yes,4,403.0,,Richard M. Tsai,https://www.fubon.com,FUIZF,30715
+Capital One Financial,389,-17.0,31643.0,-6.3,2714.0,-51.1,421602,51985,Banks: Commercial and Savings,Financials,U.S.,McLean,Virginia,no,,no,yes,11,372.0,,Richard D. Fairbank,https://www.capitalone.com,COF,55933
+New Hope Holding Group,390,0.0,31605.7,184.7,515.4,,48435.3,140757,Food Production,"Food, Beverages & Tobacco",China,Chengdu,,yes,,no,yes,1,390.0, ,Liu Yonghao,https://www.newhopegroup.com,,
+ING Group,391,-49.0,31604.9,-14.6,2563.8,-41.3,1142895.8,57527,Banks: Commercial and Savings,Financials,Netherlands,Amsterdam,,no,,no,yes,27,342.0,,Steven van Rijswijk,https://www.ing.com,ING,47999
+Tesla,392,0.0,31536.0,28.3,721.0,,52148,70757,Motor Vehicles & Parts,Motor Vehicles & Parts,U.S.,Palo Alto,California,yes,,no,yes,1,392.0, ,Elon Musk,https://www.tesla.com,TSLA,947926
+CMA CGM,393,22.0,31445.1,3.9,1755.3,,32899.8,90792,Shipping,Transportation,France,Marseille,,no,,no,yes,2,415.0,,Rodolphe J. Saadé,https://www.cma-cgm.com,,
+Bharat Petroleum,394,-85.0,31315.1,-22.5,2178.0,405.4,22012.4,9257,Petroleum Refining,Energy,India,Mumbai,,no,,no,yes,18,309.0,,K Padmakar,https://www.bharatpetroleum.in,,13429
+SAP,395,9.0,31150.3,1,5862.5,57.7,71558,102430,Computer Software,Technology,Germany,Walldorf,,no,,no,yes,6,404.0,,Christian Klein,https://www.sap.com,SAP,166650
+Shenzhen Investment Holdings,396,46.0,31143.6,7.9,1661.0,4.2,129558.2,75102,Diversified Financials,Financials,China,Shenzhen,,no,,no,yes,2,442.0,,Wang Yongjian,https://www.sihc.com.cn/en,,
+Coop Group,397,28.0,31057.5,4.1,574.2,7.4,23365.8,78578,Food & Drug Stores,Food & Drug Stores,Switzerland,Basel,,no,,no,yes,12,425.0,,Joos Sutter,https://www.coop.ch,,
+Hyundai Mobis,398,-13.0,31047.2,-4.9,1296.2,-34.1,44619.8,35087,Motor Vehicles & Parts,Motor Vehicles & Parts,South Korea,Seoul,,no,,no,yes,10,385.0,,Sung-Hwan Cho,https://www.mobis.co.kr,,23234
+Anglo American,399,20.0,30902.0,3.5,2089.0,-41.1,62534,64000,"Mining, Crude-Oil Production",Energy,Britain,London,,no,,no,yes,20,419.0,,Mark Cutifani,https://www.angloamerican.com,NGLOY,50107
+Ansteel Group,400,1.0,30885.6,-1.9,258.5,,52135.4,119331,Metals,Materials,China,Anshan,,no,,no,yes,8,401.0,,Tan Chengxu,https://www.ansteel.cn,,
+Mitsubishi Chemical Holdings,401,-25.0,30729.1,-8,-71.3,-114.3,47805,69607,Chemicals,Chemicals,Japan,Tokyo,,no,,no,no,27,376.0,,Jean-Marc Gilson,https://www.mitsubishichem-hd.co.jp,MTLHY,12407
+Siemens Energy,402,0.0,30722.9,,-1797.0,,50433.5,92000,Energy,Energy,Germany,Munich,,yes,,no,no,1,402.0, ,Christrian Bruch,https://www.siemens-energy.com,SMNEY,19676
+Shanxi Coking Coal Group,403,82.0,30453.7,16.3,159.9,-24.4,67852.8,212698,"Mining, Crude-Oil Production",Energy,China,Taiyuan,,no,,no,yes,8,485.0,,Zhao Jianze,https://www.sxcc.com.cn,,
+JFE Holdings,404,-39.0,30443.7,-11.3,-206.3,,42088.4,64371,Metals,Materials,Japan,Tokyo,,no,,no,no,19,365.0,,Koji Kakigi,https://www.jfe-holdings.co.jp,JFEEF,6862
+Haier Smart Home,405,30.0,30395.0,4.6,1286.5,8.3,31181.5,99299,"Electronics, Electrical Equip.",Industrials,China,Qingdao,,no,,no,yes,4,435.0,,Liang Haishan,https://www.haier.net,HSHCY,41993
+Mizuho Financial Group,406,-57.0,30357.1,-17.2,4443.2,7.7,2039658.3,54492,Banks: Commercial and Savings,Financials,Japan,Tokyo,,no,,no,yes,21,349.0,,Tatsufumi Sakai,https://www.mizuho-fg.co.jp,MFG,35921
+TongLing Nonferrous Metals Group,407,49.0,30301.1,8.9,-25.8,,14266.4,22501,Metals,Materials,China,Tongling,,no,,no,no,3,456.0,,Gong Huadong,https://www.tnmg.com.cn,,
+Medipal Holdings,408,9.0,30291.3,1.2,225.7,-35.4,15189.3,14614,Wholesalers: Health Care,Wholesalers,Japan,Tokyo,,no,,no,yes,19,417.0,,Shuichi Watanabe,https://www.medipal.co.jp,MAHLY,4713
+Takeda Pharmaceutical,409,5.0,30165.7,-0.3,3546.9,771.7,116747.7,47099,Pharmaceuticals,Health Care,Japan,Tokyo,,no,,no,yes,2,414.0,,Christophe Weber,https://www.takeda.com,TAK,53085
+ABB,410,-70.0,30142.0,-18.6,5146.0,257.6,41088,105600,Industrial Machinery,Industrials,Switzerland,Zurich,,no,,no,yes,27,340.0,,Björn Rosengren,https://www.global.abb/group/,ABB,75630
+Shougang Group,411,18.0,30053.7,2.7,42.5,6.2,78468.5,97235,Metals,Materials,China,Beijing,,no,,no,yes,10,429.0,,Zhang Gongyan,https://www.shougang.com.cn,,
+Suzuki Motor,412,-22.0,29980.8,-6.6,1381.2,11.9,36495.1,68739,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Hamamatsu,,no,,no,yes,27,390.0,,Toshihiro Suzuki,https://www.globalsuzuki.com,SZKMY,20208
+Veolia Environnement,413,-1.0,29637.0,-2.6,101.2,-85.5,55516.3,171450,Utilities,Energy,France,Aubervilliers,,no,,no,yes,19,412.0,,Antoine Frérot,https://www.veolia.com,VEOEY,17808
+Canon,414,-34.0,29598.9,-10.2,780.4,-32,44813.2,181897,"Computers, Office Equipment",Technology,Japan,Tokyo,,no,,no,yes,27,380.0,,Fujio Mitarai,https://global.canon,CAJ,32258
+New China Life Insurance,415,0.0,29544.6,18.6,2071.6,-1.7,153927.4,36309,"Insurance: Life, Health (stock)",Financials,China,Beijing,,yes,,no,yes,3,415.0, ,Li Quan,https://www.newchinalife.com,,17487
+Samsung Life Insurance,416,51.0,29273.8,7.3,1073.0,27.9,309657,5273,"Insurance: Life, Health (stock)",Financials,South Korea,Seoul,,no,,no,yes,25,467.0,,Young-Muk Jeon,https://www.samsunglife.com,,13437
+Kansai Electric Power,417,11.0,29171.3,-0.4,1028.0,-14,73017.7,31933,Utilities,Energy,Japan,Osaka,,no,,no,yes,27,428.0,,Takashi Morimoto,https://www.kepco.co.jp,KAEPY,8914
+Enbridge,418,-87.0,29146.5,-22.8,2507.7,-41.7,125854.7,12100,Pipelines,Energy,Canada,"Calgary, Alberta",,no,,no,yes,8,331.0,,Al Monaco,https://www.enbridge.com,ENB,78357
+Medtronic,419,-11.0,28913.0,-5.4,4789.0,3.4,90689,104950,Medical Products and Equipment,Health Care,Ireland,Dublin,,no,,no,yes,5,408.0,,Geoffrey S. Martha,https://www.medtronic.com,MDT,141985
+Toshiba,420,-18.0,28812.6,-7.6,1075.2,,31651.3,117300,"Electronics, Electrical Equip.",Technology,Japan,Tokyo,,no,,no,yes,26,402.0,,Satoshi Tsunakawa,https://www.toshiba.co.jp,TOSYY,19419
+Wistron,421,31.0,28694.5,1,294.8,34,15270.9,69506,"Computers, Office Equipment",Technology,Taiwan,Taipei,,no,,no,yes,6,452.0,,Simon Lin,https://www.wistron.com,,2922
+Philip Morris International,422,-1.0,28694.0,-3.7,8056.0,12.1,44815,71000,Tobacco,"Food, Beverages & Tobacco",U.S.,New York,New York City,no,,no,yes,13,421.0,,Jacek Olczak,https://www.pmi.com,PM,151552
+Arrow Electronics,423,18.0,28673.4,-0.8,584.4,,17053.9,19600,Wholesalers: Electronics and Office Equipment,Wholesalers,U.S.,Centennial,Colorado,no,,no,yes,8,441.0,,Michael J. Long,https://www.arrow.com,ARW,8681
+Schneider Electric,424,-11.0,28667.4,-5.7,2422.5,-10.3,60556.1,126328,"Electronics, Electrical Equip.",Industrials,France,Rueil-Malmaison,,no,,no,yes,20,413.0,,Jean-Pascal Tricoire,https://www.se.com/ww/en,SBGSY,101996
+Weichai Power,425,0.0,28621.8,13.4,1334.4,1.2,41494.3,81600,Industrial Machinery,Industrials,China,Weifang,,yes,,no,yes,1,425.0, ,Tan Xuguang,https://www.weichaipower.com,WEICY,23772
+Banco Bradesco,426,-158.0,28539.3,-35.9,3072.9,-42.4,308961.6,80170,Banks: Commercial and Savings,Financials,Brazil,Osasco,,no,,no,yes,25,268.0,,Octavio de Lazari,https://www.bradesco.com.br,BBD,42194
+Phoenix Group Holdings,427,-89.0,28493.2,-23.4,1023.4,843.5,457022.3,7653,"Insurance: Life, Health (stock)",Financials,Britain,London,,no,,no,yes,2,338.0,,Andy Briggs,https://www.thephoenixgroup.com,PNXGF,9413
+Hailiang Group,428,40.0,28466.7,4.6,117.3,-33,9348.1,20176,Trading,Wholesalers,China,Hangzhou,,no,,no,yes,3,468.0,,Cao Jianguo,https://www.hailiang.com,,
+CHS,429,-35.0,28406.4,-11,422.4,-49.1,15993.9,10493,Food Production,"Food, Beverages & Tobacco",U.S.,Inver Grove Heights,Minnesota,no,,no,yes,14,394.0,,Jay D. Debertin,https://www.chsinc.com,,
+China General Technology,430,47.0,28379.3,6.9,558.3,14.1,34592.7,52945,Engineering & Construction,Engineering & Construction,China,Beijing,,no,,no,yes,7,477.0,,Lu Yimin,https://www.genertec.com.cn,,
+Beijing Jianlong Heavy Industry Group,431,0.0,28361.5,28.9,494.0,-12.4,23685.4,61300,Metals,Materials,China,Beijing,,yes,,no,yes,1,431.0, ,Zhang Zhixiang,https://www.ejianlong.com,,
+NEC,432,18.0,28243.3,-0.8,1411.3,53.5,33169.7,114714,Information Technology Services,Technology,Japan,Tokyo,,no,,no,yes,27,450.0,,Takayuki Morita,https://www.nec.com,,14025
+Zhejiang Communications Investment Group,433,0.0,28168.2,29.3,706.7,-5.2,91171.4,38466,Transportation and Logistics,Transportation,China,Hangzhou,,yes,,no,yes,1,433.0, ,Yu Zhihong,https://www.cncico.com,,
+Bridgestone,434,-47.0,28046.8,-12.8,-218.2,-109.9,40586.4,138036,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Tokyo,,no,,no,no,27,387.0,,Shuichi Ishibashi,https://www.bridgestone.co.jp,BRDCY,32105
+China Datang,435,30.0,27928.3,1.7,317.2,-25.7,122078.6,100721,Energy,Energy,China,Beijing,,no,,no,yes,12,465.0,,Zou Lei,https://www.china-cdt.com,,
+BT Group,436,-4.0,27863.3,-4.2,1922.8,-12.7,70169.6,99700,Telecommunications,Telecommunications,Britain,London,,no,,no,yes,27,432.0,,Philip Jansen,"https://www,bt.com",BTGOF,24863
+Shanghai Pharmaceuticals Holding,437,36.0,27812.9,3,651.6,10.3,22863.7,48136,Wholesalers: Health Care,Health Care,China,Shanghai,,no,,no,yes,2,473.0,,Cho Man,https://www.sphchina.com,SHPMY,7769
+LyondellBasell Industries,438,-78.0,27753.0,-20.1,1420.0,-58.1,35403,19200,Chemicals,Chemicals,Netherlands,Rotterdam,,no,,no,yes,14,360.0,,Kenneth Lane,https://www.lyondellbasell.com,LYB,31332
+Guangxi Investment Group,439,51.0,27707.9,6.3,41.3,-47.2,91594.9,33005,Diversified Financials,Financials,China,Nanning,,no,,no,yes,2,490.0,,Zhou Lian,https://www.gig.cn,,
+Chubu Electric Power,440,14.0,27690.4,-1.8,1388.6,-7.6,51413.6,28238,Utilities,Energy,Japan,Nagoya,,no,,no,yes,27,454.0,,Hayashi Kingo,https://www.chuden.co.jp,,9122
+CRH,441,-44.0,27587.0,-12.9,1122.0,-48,44944,77100,"Building Materials, Glass",Materials,Ireland,Dublin,,no,,no,yes,18,397.0,,Albert Manifold,https://www.crh.com,CRH,37871
+Sumitomo Electric Industries,442,3.0,27531.7,-3.7,531.5,-20.5,30577.9,286784,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Osaka,,no,,no,yes,27,445.0,,Masayoshi Matsumoto,https://www.global-sei.com,SMTOY,11070
+Financière de l&#8217;Odet,443,15.0,27470.1,-1.2,244.0,78.8,68530.8,79207,Entertainment,Media,France,Paris,,no,,no,yes,3,458.0,,Vincent Bolloré,https://www.financiere-odet.com/fr-fr,,8715
+Xinjiang Guanghui Industry Investment,444,-1.0,27448.3,-4.4,59.2,-34.1,42635,73963,Trading,Wholesalers,China,Urumqi,,no,,no,yes,5,443.0,,Song Dongsheng,https://www.guanghui.com,,
+X5 Retail Group,445,30.0,27359.1,2.1,392.0,30,15872.7,339716,Food & Drug Stores,Food & Drug Stores,Netherlands,Amsterdam,,no,,no,yes,2,475.0,,Igor Shekhterman,https://www.x5.ru,,8554
+Jabil,446,0.0,27266.4,7.8,53.9,-81.2,14397.4,240000,Semiconductors and Other Electronic Components,Technology,U.S.,St. Petersburg,Florida,yes,,no,yes,1,446.0, ,Mark T. Mondello,https://www.jabil.com,JBL,8111
+Linde,447,-3.0,27250.0,-5,2501.0,9.5,88229,74207,Chemicals,Chemicals,Britain,"Guildford, Surrey",,no,,no,yes,2,444.0,,Stephen F. Angel,https://www.linde.com,LIN,161456
+Enterprise Products Partners,448,-64.0,27199.7,-17,3775.6,-17.8,64106.7,7130,Pipelines,Energy,U.S.,Houston,Texas,no,,no,yes,11,384.0,,A. James Teague/W. Randall Fowler,https://www.enterpriseproducts.com,EPD,51395
+Mazda Motor,449,-49.0,27187.2,-13.8,-298.6,-367.6,26378.1,49786,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Hiroshima,,no,,no,no,27,400.0,,Akira Marumoto,https://www.mazda.com,MZDAY,5750
+CJ Corp.,450,-13.0,27124.7,-6.4,73.5,-68,36824.5,62756,Specialty Retailers,Retailing,South Korea,Seoul,,no,,no,yes,4,437.0,,Kyung-Shik Sohn/Hong-Ki Kim,https://www.cj.net,,2561
+China National Coal Group,451,45.0,27104.9,4.9,484.5,57.4,63259.2,131121,"Mining, Crude-Oil Production",Energy,China,Beijing,,no,,no,yes,2,496.0,,Wang Shudong,https://www.chinacoal.com,,
+SK Hynix,452,0.0,27041.1,16.8,4030.8,133.3,65482.7,36854,Semiconductors and Other Electronic Components,Technology,South Korea,"Icheon, Gyeonggi-do",,yes,,no,yes,3,452.0, ,Seok-Hee Lee/Jung-Ho Park,https://www.skhynix.com,,75612
+Hewlett Packard Enterprise,453,-22.0,26982.0,-7.4,-322.0,-130.7,54015,59400,"Computers, Office Equipment",Technology,U.S.,Houston,Texas,no,,no,no,5,431.0,,Antonio Neri,https://www.hpe.com,HPE,22805
+Danone,454,-1.0,26913.8,-4.9,2228.8,3.2,52349.3,101911,Food Consumer Products,"Food, Beverages & Tobacco",France,Paris,,no,,yes,yes,27,453.0,,Antoine de Saint-Affrique,https://www.danone.com,DANOY,45129
+Achmea,455,6.0,26843.1,-2.7,731.5,36.2,114615,13921,"Insurance: Life, Health (Mutual)",Financials,Netherlands,Zeist,,no,,yes,yes,8,461.0,,Bianca E.M. Tetteroo,https://www.achmea.nl,,
+Longfor Group Holdings,456,0.0,26745.9,22.3,2898.8,9.2,117265.7,35426,Real estate,Financials,China,Beijing,,yes,,no,yes,1,456.0, ,Shao Mingxiao,https://www.longfor.com,LGFRY,34424
+United Natural Foods,457,0.0,26742.8,13.9,-274.1,,7587,28300,Wholesalers: Food and Grocery,Wholesalers,U.S.,Providence,Rhode Island,yes,,no,no,1,457.0, ,Sandy Douglas,https://www.unfi.com,UNFI,1781
+Centrica,458,-18.0,26701.5,-7.7,52.6,,23401.7,25753,Utilities,Energy,Britain,Windsor,,no,,no,yes,24,440.0,,Chris O&#039;Shea,https://www.centrica.com,CPYYY,3991
+Subaru,459,-54.0,26698.0,-13.2,721.7,-48.6,30847.3,36070,Motor Vehicles & Parts,Motor Vehicles & Parts,Japan,Tokyo,,no,,no,yes,19,405.0,,Tomomi Nakamura,https://www.subaru.co.jp,FUJHY,14479
+Guangzhou Municipal Construction Group,460,0.0,26682.4,36.6,126.8,26.8,23703.1,38367,Engineering & Construction,Engineering & Construction,China,Guangzhou,,yes,,no,yes,1,460.0, ,LIang Huqing,https://www.gzmcg.com,,
+LG Chem,461,0.0,26644.8,8.5,434.5,61.6,38079.4,40234,Chemicals,Chemicals,South Korea,Seoul,,yes,,no,yes,2,461.0, ,Hak-Cheol Shin,https://www.lgchem.co.kr,,50679
+AstraZeneca,462,0.0,26617.0,9.2,3196.0,139.4,66729,76100,Pharmaceuticals,Health Care,Britain,Cambridge,,yes,,no,yes,20,462.0, ,Pascal Soriot,https://www.astrazeneca.com,AZN,180389
+Mondelēz International,463,32.0,26581.0,2.8,3555.0,-8.1,67810,79000,Food Consumer Products,"Food, Beverages & Tobacco",U.S.,Chicago,Illinois,no,,no,yes,14,495.0,,Dirk Van de Put,https://www.mondelezinternational.com,MDLZ,95360
+Boehringer Ingelheim,464,0.0,26496.8,11.3,3489.0,14.6,45142.3,51944,Pharmaceuticals,Health Care,Germany,Ingelheim,,yes,,no,yes,3,464.0, ,Hubertus von Baumbach,https://www.boehringer-ingelheim.com,,
+ViacomCBS,465,-8.0,26186.0,-5.8,2422.0,-26.8,52663,24225,Entertainment,Media,U.S.,New York,New York City,no,,no,yes,13,457.0,,Robert M. Bakish,https://www.viacbs.com,VIAC,26557
+Kraft Heinz,466,0.0,26185.0,4.8,356.0,-81.6,99830,38000,Food Consumer Products,"Food, Beverages & Tobacco",U.S.,Chicago,Illinois,yes,,no,yes,6,466.0, ,Miguel Patricio,https://www.kraftheinzcompany.com,KHC,47458
+Koç Holding,467,4.0,26179.2,-3.2,1320.9,70.7,84825.5,100641,Energy,Energy,Turkey,Istanbul,,no,,no,yes,20,471.0,,Levent Çakiroglu,https://www.koc.com.tr,KHOLY,5836
+Guangzhou Pharmaceutical Holdings,468,0.0,26070.1,9,299.0,6.4,9132.8,34371,Pharmaceuticals,Health Care,China,Guangzhou,,yes,,no,yes,1,468.0, ,Li Chuyuan,https://www.gpc.com.cn,,
+Olam International,469,0.0,26067.8,7.6,178.1,-56.9,20206.3,60425,Wholesalers: Food and Grocery,Wholesalers,Singapore,Singapore,,yes,,no,yes,1,469.0, ,Sunny Verghese,https://www.olamgroup.com,OLMIF,3470
+China Resources Land,470,0.0,26027.1,21.7,4352.2,3.8,133186.4,48414,Real estate,Financials,China,Hong Kong,,yes,,no,yes,1,470.0, ,Li Xin,https://www.crland.com.hk,CRBJY,28861
+Yunnan Provincial Investment Holding Group,471,0.0,25886.9,39.4,278.6,172.9,72723.6,51442,Diversified Financials,Financials,China,Kunming,,yes,,no,yes,1,471.0, ,Lujun Qiu,https://www.cnyig.com/en,,
+Bank of Montreal,472,-42.0,25664.6,-12,3788.4,-12.6,711910.2,43360,Banks: Commercial and Savings,Financials,Canada,"Toronto, Ontario",,no,,no,yes,12,430.0,,Darryl White,https://www.bmo.com,BMO,63658
+Samsung C&T,473,8.0,25613.3,-3,877.8,-2.6,49987.3,16075,Trading,Wholesalers,South Korea,Seoul,,no,,no,yes,5,481.0,,Jung-Suk Koh/Se-Chul Oh,https://www.samsungcnt.com,,22334
+WH Group,474,0.0,25589.0,6.2,828.0,-43.5,18715,107000,Food Consumer Products,"Food, Beverages & Tobacco",China,Hong Kong,,yes,,no,yes,2,474.0, ,Guo Lijun,https://www.wh-group.com,WHGLY,11993
+Dollar Tree,475,0.0,25509.3,8,1341.9,62.3,20696,129772,Specialty Retailers,Retailing,U.S.,Chesapeake,Virginia,yes,,no,yes,1,475.0, ,Michael A. Witynski,https://www.dollartree.com,DLTR,23054
+Amgen,476,0.0,25424.0,8.8,7264.0,-7.4,62948,24300,Pharmaceuticals,Health Care,U.S.,Thousand Oaks,California,yes,,no,yes,3,476.0, ,Robert A. Bradway,https://www.amgen.com,AMGN,128267
+Compass Group,477,-82.0,25413.4,-19.9,169.5,-88,19030.4,548143,Food Services,Business Services,Britain,Chertsey,,no,,no,yes,20,395.0,,Dominic Blakemore,https://www.compass-group.com,CMPGY,40648
+Coles Group,478,-71.0,25324.5,-17.2,655.5,-36.1,12640.6,118000,Food & Drug Stores,Food & Drug Stores,Australia,Hawthorn East,,no,,no,yes,2,407.0,,Steven Cain,https://www.colesgroup.com.au,CLEGF,17101
+U.S. Bancorp,479,-13.0,25241.0,-7.6,4959.0,-28.3,553905,68108,Banks: Commercial and Savings,Financials,U.S.,Minneapolis,Minnesota,no,,no,yes,16,466.0,,Andrew J. Cecere,https://www.usbank.com,USB,81768
+Ericsson,480,0.0,25236.9,5,1898.6,707.5,33098.1,101129,Network and Other Communications Equipment,Technology,Sweden,Stockholm,,yes,,no,yes,25,480.0, ,Börje Ekholm,https://www.ericsson.com,ERIC,38985
+Huayang New Material Technology Group,481,18.0,25187.9,-1.2,-172.7,,39670.2,99487,"Mining, Crude-Oil Production",Energy,China,Yangquan,,no,,no,no,9,499.0,,Zhai Hong,https://www.ymjt.com.cn,,
+Banco do Brasil,482,-194.0,25149.6,-40.4,2299.6,-44.7,326124.7,91673,Banks: Commercial and Savings,Financials,Brazil,Brasilia,,no,,no,yes,27,288.0,,Fausto de Andrade Ribeiro,https://www.bb.com.br,BDORY,17632
+Performance Food Group,483,0.0,25086.3,27.1,-114.1,-168.4,7719.7,20000,Wholesalers: Food and Grocery,Wholesalers,U.S.,Richmond,Virginia,yes,,no,no,1,483.0, ,George L. Holm,https://www.pfgc.com,PFGC,5969
+Netflix,484,0.0,24996.1,24,2761.4,47.9,39280.4,9400,Entertainment,Media,U.S.,Los Gatos,California,yes,,no,yes,1,484.0, ,Reed Hastings/Ted Sarandos,https://www.netflix.com,NFLX,176073
+Nokia,485,3.0,24899.2,-4.6,-2874.8,-36793.1,44290.5,92039,Network and Other Communications Equipment,Technology,Finland,Espoo,,no,,no,no,23,488.0,,Pekka Lundmark,https://www.nokia.com,NOK,32454
+Zijin Mining Group,486,0.0,24855.2,26.2,943.3,52.1,27940.7,36860,Metals,Materials,China,Longyan,,yes,,no,yes,1,486.0, ,Chen Jinghe,https://www.zjky.cn,ZIJMY,39624
+BAE Systems,487,0.0,24722.7,5.8,1666.0,-11.5,37633.5,81000,Aerospace & Defense,Aerospace & Defense,Britain,London,,yes,,no,yes,25,487.0, ,Charles Woodburn,https://www.baesystems.com,BAESY,25536
+Gree Electric Appliances,488,-52.0,24709.7,-14.9,3213.8,-10.1,42792,83952,"Electronics, Electrical Equip.",Industrials,China,Zhuhai,,no,,yes,yes,3,436.0,,Dong Mingzhu,https://www.gree.com,,46438
+Gilead Sciences,489,0.0,24689.0,10,123.0,-97.7,68407,13600,Pharmaceuticals,Health Care,U.S.,Foster City,California,yes,,no,yes,5,489.0, ,Daniel P. O'Day,https://www.gilead.com,GILD,86099
+TD Synnex,490,0.0,24675.6,3.9,529.2,5.7,13468.6,277900,Wholesalers: Electronics and Office Equipment,Wholesalers,U.S.,Fremont,California,yes,,no,yes,1,490.0, ,Rich Hume,https://www.tdsynnex.com,SNX,10054
+UniCredit Group,491,-22.0,24664.5,-9.2,-3173.4,-184.1,1139915.9,82107,Banks: Commercial and Savings,Financials,Italy,Milan,,no,,no,no,26,469.0,,Andrea Orcel,https://www.unicreditgroup.eu,UNCRY,24964
+Holcim,492,-16.0,24653.8,-8.3,1807.9,-20,60235.4,67409,"Building Materials, Glass",Materials,Switzerland,Zug,,no,,no,yes,13,476.0,,Jan Jenisch,https://www.lafargeholcim.com,HCMLY,35544
+Mapfre Group,493,-29.0,24641.5,-10.5,599.9,-12,84629,33730,Insurance: Property and Casualty (Stock),Financials,Spain,Madrid,,no,,no,yes,14,464.0,,Antonio Huertas Mejías,https://www.mapfre.com,MPFRY,6334
+Alfresa Holdings,494,0.0,24556.3,-1.1,231.1,-37.6,11904.7,12045,Wholesalers: Health Care,Health Care,Japan,Tokyo,,yes,,no,yes,9,494.0, ,Ryuji Arakawa,https://www.alfresa.com,ARHCF,3607
+Eli Lilly,495,0.0,24539.8,9.9,6193.7,-25.5,46633.1,35000,Pharmaceuticals,Health Care,U.S.,Indianapolis,Indiana,yes,,no,yes,15,495.0, ,David A. Ricks,https://www.lilly.com,LLY,232509
+Truist Financial,496,0.0,24427.0,66.6,4482.0,39,509228,53638,Banks: Commercial and Savings,Financials,U.S.,Charlotte,North Carolina,yes,,no,yes,1,496.0, ,"William Henry Rogers, Jr.",https://www.truist.com,TFC,81621
+China Reinsurance (Group),497,0.0,24376.0,18.1,827.6,-5.5,69513.7,63914,Insurance: Property and Casualty (Stock),Financials,China,Beijing,,yes,,no,yes,1,497.0, ,Yuan Linjiang,https://www.chinare.com.cn,,4155
+Commonwealth Bank of Australia,498,-82.0,24362.0,-18.7,6457.1,5.4,698585.9,43585,Banks: Commercial and Savings,Financials,Australia,Sydney,,no,,no,yes,17,416.0,,Matt Comyn,https://www.commbank.com.au,CMWAY,130629
+Flex,499,0.0,24124.0,-0.4,613.0,599.9,15836,167201,"Electronics, Electrical Equip.",Technology,Singapore,Singapore,,yes,,yes,yes,20,499.0, ,Revathi Advaithi,https://www.flex.com,FLEX,7974
+Rite Aid,500,0.0,24043.4,9.6,-90.9,,9335.4,50000,Food & Drug Stores,Food & Drug Stores,U.S.,Camp Hill,Pennsylvania,yes,,no,no,21,500.0, ,Heyward Donigan,https://www.riteaid.com,RAD,824
