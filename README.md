@@ -24,7 +24,7 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
 - Tipos principais: series e dataframes
 - Seleção e atribuição de dados
 - Criação de linhas e colunas
-- Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ne40-ia/tree/main/lessons/aula02/)- - 
+- Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ne40-ia/tree/main/lessons/aula02/)
 
 
 **Aula 03** :dragon: Explorando dados com Pandas [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula03/Aula%2003.pdf)
