@@ -45,7 +45,7 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
 - Contando uma história
 - Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ne40-ia/tree/main/lessons/aula04/)
 
-**Aula 05** Fundamentos de Aprendizado de Máquina [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula04/Aula%2005.pdf)
+**Aula 05** Fundamentos de Aprendizado de Máquina [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula05/Aula%2005.pdf)
 - O que é aprendizado de máquina? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340)
 - Tipos de aprendizado de máquina [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4005e7ef95d4431db1bd266979a6789c)
 - Principais desafios
