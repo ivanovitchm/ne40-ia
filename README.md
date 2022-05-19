@@ -52,3 +52,12 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
     - Variáveis, fluxos e controlando o caos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f5456342c6b643799c1824362020fc5e)
     - Instâncias de treinamento, desenvolvimento/validação e testes [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/954298d6f4c1433488239956b5d7007e)
     - Viés e variância [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c496098013c84911a9ac353fec7e3131) 
+    
+**Aula 06** K-Vizinhos mais próximos (KNN) [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula06/Aula%2006.pdf)
+- Introdução a KNN
+- Avaliando o desempenho de um modelo
+- KNN multivariável
+- Otimização dos hiperparâmetros
+- Validação cruzada
+- Projeto fim a fim
+- Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ne40-ia/tree/main/lessons/aula06/)
