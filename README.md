@@ -96,7 +96,7 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
         - Configuração, treinamento e exportação dos melhores modelos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1c7a30cd4e90400daeb3916ee4006534)
     - Teste [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7725679b69a7426c927c317cb634dec3)
     
-**Aula 08** Implantando um Modelo de Aprendizado de Máquina em Produção [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula07/Aula%2008.pdf)
+**Aula 08** Implantando um Modelo de Aprendizado de Máquina em Produção [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula08/Aula%2008.pdf)
 - :neckbeard: Hands on [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/ivanovitchm/colab2mlops)
 - Resumo da aula anterior [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2497e73815354083a0299c376c6b1bb7)
 - Instalando o ambiente de desenvolvimento [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5147cf6180e146689fe976e1212dfd60)
