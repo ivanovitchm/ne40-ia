@@ -5,7 +5,7 @@ Model cards are a succinct approach for documenting the creation, use, and short
 ## Model Details
 Ivanovitch Silva created the model. A complete data pipeline was built using Google Colab, Scikit-Learn and Weights & Bias to train a Decision Tree model. The big-picture of the data pipeline is shown below:
 
-<img width="800" src="../../../images/workflow.png">
+<img width="800" src="../figuras/workflow.png">
 
 For the sake of understanding, a simple hyperparameter-tuning was conducted using a Random Sweep of Wandb, and the hyperparameters values adopted in the train were:
 
@@ -25,7 +25,7 @@ You can download the data from the University of California, Irvine's [website](
 
 After the EDA stage of the data pipeline, it was noted that the training data is imbalanced when considered the target variable and some features (``sex``, ``race`` and ``workclass``. 
 
-<img width="600" src="../../../images/gender_race.png"><img width="600" src="../../../images/gender_workclass.png">
+<img width="600" src="../figuras/gender_race.png"><img width="600" src="../figuras/gender_workclass.png">
 
 
 ## Evaluation Data
