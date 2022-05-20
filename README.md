@@ -95,3 +95,32 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
         - Personalização dos hiperparâmetros usando o Wandb [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e3a9d52709843bbb6026f816fa49d90)
         - Configuração, treinamento e exportação dos melhores modelos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1c7a30cd4e90400daeb3916ee4006534)
     - Teste [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7725679b69a7426c927c317cb634dec3)
+    
+**Aula 08** Implantando um Modelo de Aprendizado de Máquina em Produção [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula07/Aula%2008.pdf)
+- :neckbeard: Hands on [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/ivanovitchm/colab2mlops)
+- Resumo da aula anterior [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2497e73815354083a0299c376c6b1bb7)
+- Instalando o ambiente de desenvolvimento [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5147cf6180e146689fe976e1212dfd60)
+- Gerenciamento do ambiente com o Conda [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b03a14eddae543319071f483e1f73728)
+- Usando a FastAPI para construção de APIs [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7c4ccaa0de28422db02522dbad03bba7)
+- Hello world usando a fastapi [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d54ee20891d74c70bd2c866c68fbe4f6)
+- Implementando um método post [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8514c74f1f3443d3b7a82b8160f9d271)
+- Parâmetros da API [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7b6f2e4a2fc345019b5f5e0081aec490)
+- Teste local da API [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/db74b4cc2294486480e2c31f05cbe3d5)
+- Implantação da API com a FastAPI [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bad07405f31e4625ba0a45a632b4f9d7)
+- Consumindo uma API RESTful [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bd04680bd2ba4c41bf5e33bd18e6e9c7)
+- Usando pytest e fastAPI para testar a nossa API RESTful [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/90ec0a6c964a4e669c05d7c3d3f54347)
+- Fundamentos de CI/CD [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9759c65ddb9b486fb9068ff603dda38c)
+- Configurando GitHub Actions [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6551d576e4b340f2a1d7849edd910109)
+- Integração contínua [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b7d932f842f64ea4805feeb5c11d82ed)
+- Implantando nossa API no Heroku
+    - Criando uma nova aplicação no Heroku [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f2eeba8220cc45b2984813786df0c7f4)
+    - Configurando a entrega contínua [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3f4f6a31147148418fa5052a545740d4)
+    - Depuração e teste da API [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/60782b538d25411780a8c9c1c14249f6)
+
+    
+    
+
+    
+    
+    
+
