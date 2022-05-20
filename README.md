@@ -64,7 +64,7 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
 
 
 **Aula 07** Árvores de decisão [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula07/Aula%2007.pdf)
-- Decision Trees
+- Fundamentação teórica
     - Introdução [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4f10b2436c1943f2aaa84d0f56c9e8c3) 
     - Fundamentos matemáticos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a215906eceda4b9cb655b226261bfb21)
 - Evaluation metrics
