@@ -71,7 +71,7 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
     - Como escolher uma métrica de avaliação [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3dd9bd6dcb844704ba9cd1e1b34932c3)
     - Métricas de limites [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/efc3248b6f8747a3ab86cd22cadde993)
     - Métricas de classificação [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1394db7fc27e4592af6f538c06cebbd1)
-- :rocket: Estudo de caso [![Jupyter](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula07/codigos)
+- :rocket: Estudo de caso [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula07/codigos)
     - Google Colaboratory [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
     - Configurando o ambiente de desenvolvimento [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/fea2d097fc7d4de89e53da259ece6d25)
     - Extração, transformação e carga (ETL)
