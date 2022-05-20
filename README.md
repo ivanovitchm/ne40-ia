@@ -61,3 +61,37 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
 - Validação cruzada
 - Projeto fim a fim
 - Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ne40-ia/tree/main/lessons/aula06/)
+
+
+**Aula 07** Árvores de decisão [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula07/Aula%2007.pdf)
+- Decision Trees
+    - Introdução [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4f10b2436c1943f2aaa84d0f56c9e8c3) 
+    - Fundamentos matemáticos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a215906eceda4b9cb655b226261bfb21)
+- Evaluation metrics
+    - Como escolher uma métrica de avaliação [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3dd9bd6dcb844704ba9cd1e1b34932c3)
+    - Métricas de limites [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/efc3248b6f8747a3ab86cd22cadde993)
+    - Métricas de classificação [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1394db7fc27e4592af6f538c06cebbd1)
+- :rocket: Estudo de caso [![Jupyter](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ne40-ia/blob/main/lessons/aula07/codigos)
+    - Google Colaboratory [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
+    - Configurando o ambiente de desenvolvimento [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/fea2d097fc7d4de89e53da259ece6d25)
+    - Extração, transformação e carga (ETL)
+        - Análise exploratória dos dados (EDA) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/799b9712c6274f2fa547a3eb4cd230df)
+        - Coleta dos dados [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9861e9013ba940aba2c6dd1db5a00ebf)
+        - Pandas-Profiling [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/cf19e023208946938d3f70e6e52018b4)
+        - EDA manual [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9cec1f4d529a41dc90af19f23ef2082a)
+        - Pré-processamento [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/51a2972c8ffc4949891e9e249f9f48a3)
+    - Checagem dos dados [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f359ca8430b149309f6ac0b1d9c6e233)
+    - Segragação dos dados [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/25a491791e104c1694b2bf5615fe2c26)
+    - Treinamento
+        - Componente de treinamento e validação [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3b708c0820b64ef199178b63fc4ef395)
+        - Preparação dos dados e remoção de valores atípicos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/140068a18a5e4c8d83b807868ebdd011)
+        - Codificação da variável alvo [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b0edb4ccb28a4e1884a2f37637b58deb)
+        - Codificando as variáveis independentes [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4adce083a32b4d3787fd50b59da4fdb5)
+        - Criando um pipeline para as variáveis categóricas [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/12de69ebeb744ebdbf2524b07773c7c2)
+        - Criando um pipeline para as variáveis numéricas [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3b92e3fd78df42ebbbdce36dbce1707a)
+        - Mesclando pipelines [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6796f0129b1d4865aeb277e68461da80)
+        - Validação holdout [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/188a610fb09542b883b89cc962d6a823)
+        - Métricas de avaliação [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4b2a9dd0ae44465b914974cf886390f9)
+        - Personalização dos hiperparâmetros usando o Wandb [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e3a9d52709843bbb6026f816fa49d90)
+        - Configuração, treinamento e exportação dos melhores modelos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1c7a30cd4e90400daeb3916ee4006534)
+    - Teste [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7725679b69a7426c927c317cb634dec3)
