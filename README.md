@@ -67,7 +67,7 @@ O curso tem caráter de pós-graduação lato sensu e faz parte do “Programa d
 - Fundamentação teórica
     - Introdução [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4f10b2436c1943f2aaa84d0f56c9e8c3) 
     - Fundamentos matemáticos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a215906eceda4b9cb655b226261bfb21)
-- Evaluation metrics
+- Métricas de avaliação
     - Como escolher uma métrica de avaliação [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3dd9bd6dcb844704ba9cd1e1b34932c3)
     - Métricas de limites [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/efc3248b6f8747a3ab86cd22cadde993)
     - Métricas de classificação [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1394db7fc27e4592af6f538c06cebbd1)
